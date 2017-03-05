@@ -1,0 +1,892 @@
+,id,Japanese,English,French,Spanish,German,Italian,Korean,MandarinChinese,CantoneseChinese
+0,1,フシギダネ,Bulbasaur,Bulbizarre,Bulbasaur,Bisasam,Bulbasaur,이상해씨,妙蛙种子,妙蛙種子
+1,2,フシギソウ,Ivysaur,Herbizarre,Ivysaur,Bisaknosp,Ivysaur,이상해풀,妙蛙草,妙蛙草
+2,3,フシギバナ,Venusaur,Florizarre,Venusaur,Bisaflor,Venusaur,이상해꽃,妙蛙花,妙蛙花
+3,4,ヒトカゲ,Charmander,Salamèche,Charmander,Glumanda,Charmander,파이리,小火龙,小火龍
+4,5,リザード,Charmeleon,Reptincel,Charmeleon,Glutexo,Charmeleon,리자드,火恐龙,火恐龍
+5,6,リザードン,Charizard,Dracaufeu,Charizard,Glurak,Charizard,리자몽,喷火龙,噴火龍
+6,7,ゼニガメ,Squirtle,Carapuce,Squirtle,Schiggy,Squirtle,꼬부기,杰尼龟,傑尼龜
+7,8,カメール,Wartortle,Carabaffe,Wartortle,Schillok,Wartortle,어니부기,卡咪龟,卡咪龜
+8,9,カメックス,Blastoise,Tortank,Blastoise,Turtok,Blastoise,거북왕,水箭龟,水箭龜
+9,10,キャタピー,Caterpie,Chenipan,Caterpie,Raupy,Caterpie,캐터피,绿毛虫,綠毛蟲
+10,11,トランセル,Metapod,Chrysacier,Metapod,Safcon,Metapod,단데기,铁甲蛹,鐵甲蛹
+11,12,バタフリー,Butterfree,Papilusion,Butterfree,Smettbo,Butterfree,버터플,巴大蝶,巴大蝶
+12,13,ビードル,Weedle,Aspicot,Weedle,Hornliu,Weedle,뿔충이,独角虫,獨角蟲
+13,14,コクーン,Kakuna,Coconfort,Kakuna,Kokuna,Kakuna,딱충이,铁壳蛹,鐵殼蛹
+14,15,スピアー,Beedrill,Dardargnan,Beedrill,Bibor,Beedrill,독침붕,大针蜂,大針蜂
+15,16,ポッポ,Pidgey,Roucool,Pidgey,Taubsi,Pidgey,구구,波波,波波
+16,17,ピジョン,Pidgeotto,Roucoups,Pidgeotto,Tauboga,Pidgeotto,피죤,比比鸟,比比鳥
+17,18,ピジョット,Pidgeot,Roucarnage,Pidgeot,Tauboss,Pidgeot,피죤투,大比鸟,大比鳥
+18,19,コラッタ,Rattata,Rattata,Rattata,Rattfratz,Rattata,꼬렛,小拉达,小拉達
+19,19,コラッタ(アローラのすがた),Rattata(Alola Form),Rattata(Forme d'Alola),Rattata(Forma di Alola),Rattfratz(Alola-Form),Rattata(Forma de Alola),꼬렛(알로라의 모습),小拉达(阿罗拉的样子),小拉達(阿羅拉的樣子)
+20,20,ラッタ,Raticate,Rattatac,Raticate,Rattikarl,Raticate,레트라,拉达,拉達
+21,20,ラッタ(アローラのすがた),Raticate(Alola Form),Rattatac(Forme d'Alola),Raticate(Forma di Alola),Rattikarl(Alola-Form),Raticate(Forma de Alola),레트라(알로라의 모습),拉达(阿罗拉的样子),拉達(阿羅拉的樣子)
+22,21,オニスズメ,Spearow,Piafabec,Spearow,Habitak,Spearow,깨비참,烈雀,烈雀
+23,22,オニドリル,Fearow,Rapasdepic,Fearow,Ibitak,Fearow,깨비드릴조,大嘴雀,大嘴雀
+24,23,アーボ,Ekans,Abo,Ekans,Rettan,Ekans,아보,阿柏蛇,阿柏蛇
+25,24,アーボック,Arbok,Arbok,Arbok,Arbok,Arbok,아보크,阿柏怪,阿柏怪
+26,25,ピカチュウ,Pikachu,Pikachu,Pikachu,Pikachu,Pikachu,피카츄,皮卡丘,皮卡丘
+27,26,ライチュウ,Raichu,Raichu,Raichu,Raichu,Raichu,라이츄,雷丘,雷丘
+28,26,ライチュウ(アローラのすがた),Raichu(Alola Form),Raichu(Forme d'Alola),Raichu(Forma di Alola),Raichu(Alola-Form),Raichu(Forma de Alola),라이츄(알로라의 모습),雷丘(阿罗拉的样子),雷丘(阿羅拉的樣子)
+29,27,サンド,Sandshrew,Sabelette,Sandshrew,Sandan,Sandshrew,모래두지,穿山鼠,穿山鼠
+30,27,サンド(アローラのすがた),Sandshrew(Alola Form),Sabelette(Forme d'Alola),Sandshrew(Forma di Alola),Sandan(Alola-Form),Sandshrew(Forma de Alola),모래두지(알로라의 모습),穿山鼠(阿罗拉的样子),穿山鼠(阿羅拉的樣子)
+31,28,サンドパン,Sandslash,Sablaireau,Sandslash,Sandamer,Sandslash,고지,穿山王,穿山王
+32,28,サンドパン(アローラのすがた),Sandslash(Alola Form),Sablaireau(Forme d'Alola),Sandslash(Forma di Alola),Sandamer(Alola-Form),Sandslash(Forma de Alola),고지(알로라의 모습),穿山王(阿罗拉的样子),穿山王(阿羅拉的樣子)
+33,29,ニドラン♀,Nidoran♀,Nidoran♀,Nidoran♀,Nidoran♀,Nidoran♀,니드런♀,尼多兰,尼多蘭
+34,30,ニドリーナ,Nidorina,Nidorina,Nidorina,Nidorina,Nidorina,니드리나,尼多娜,尼多娜
+35,31,ニドクイン,Nidoqueen,Nidoqueen,Nidoqueen,Nidoqueen,Nidoqueen,니드퀸,尼多后,尼多后
+36,32,ニドラン♂,Nidoran♂,Nidoran♂,Nidoran♂,Nidoran♂,Nidoran♂,니드런♂,尼多朗,尼多朗
+37,33,ニドリーノ,Nidorino,Nidorino,Nidorino,Nidorino,Nidorino,니드리노,尼多力诺,尼多力諾
+38,34,ニドキング,Nidoking,Nidoking,Nidoking,Nidoking,Nidoking,니드킹,尼多王,尼多王
+39,35,ピッピ,Clefairy,Mélofée,Clefairy,Piepi,Clefairy,삐삐,皮皮,皮皮
+40,36,ピクシー,Clefable,Mélodelfe,Clefable,Pixi,Clefable,픽시,皮可西,皮可西
+41,37,ロコン,Vulpix,Goupix,Vulpix,Vulpix,Vulpix,식스테일,六尾,六尾
+42,37,ロコン(アローラのすがた),Vulpix(Alola Form),Goupix(Forme d'Alola),Vulpix(Forma di Alola),Vulpix(Alola-Form),Vulpix(Forma de Alola),식스테일(알로라의 모습),六尾(阿罗拉的样子),六尾(阿羅拉的樣子)
+43,38,キュウコン,Ninetales,Feunard,Ninetales,Vulnona,Ninetales,나인테일,九尾,九尾
+44,38,キュウコン(アローラのすがた),Ninetales(Alola Form),Feunard(Forme d'Alola),Ninetales(Forma di Alola),Vulnona(Alola-Form),Ninetales(Forma de Alola),나인테일(알로라의 모습),九尾(阿罗拉的样子),九尾(阿羅拉的樣子)
+45,39,プリン,Jigglypuff,Rondoudou,Jigglypuff,Pummeluff,Jigglypuff,푸린,胖丁,胖丁
+46,40,プクリン,Wigglytuff,Grodoudou,Wigglytuff,Knuddeluff,Wigglytuff,푸크린,胖可丁,胖可丁
+47,41,ズバット,Zubat,Nosferapti,Zubat,Zubat,Zubat,주뱃,超音蝠,超音蝠
+48,42,ゴルバット,Golbat,Nosferalto,Golbat,Golbat,Golbat,골뱃,大嘴蝠,大嘴蝠
+49,43,ナゾノクサ,Oddish,Mystherbe,Oddish,Myrapla,Oddish,뚜벅쵸,走路草,走路草
+50,44,クサイハナ,Gloom,Ortide,Gloom,Duflor,Gloom,냄새꼬,臭臭花,臭臭花
+51,45,ラフレシア,Vileplume,Rafflesia,Vileplume,Giflor,Vileplume,라플레시아,霸王花,霸王花
+52,46,パラス,Paras,Paras,Paras,Paras,Paras,파라스,派拉斯,派拉斯
+53,47,パラセクト,Parasect,Parasect,Parasect,Parasek,Parasect,파라섹트,派拉斯特,派拉斯特
+54,48,コンパン,Venonat,Mimitoss,Venonat,Bluzuk,Venonat,콘팡,毛球,毛球
+55,49,モルフォン,Venomoth,Aéromite,Venomoth,Omot,Venomoth,도나리,摩鲁蛾,摩魯蛾
+56,50,ディグダ,Diglett,Taupiqueur,Diglett,Digda,Diglett,디그다,地鼠,地鼠
+57,50,ディグダ(アローラのすがた),Diglett(Alola Form),Taupiqueur(Forme d'Alola),Diglett(Forma di Alola),Digda(Alola-Form),Diglett(Forma de Alola),디그다(알로라의 모습),地鼠(阿罗拉的样子),地鼠(阿羅拉的樣子)
+58,51,ダグトリオ,Dugtrio,Triopikeur,Dugtrio,Digdri,Dugtrio,닥트리오,三地鼠,三地鼠
+59,51,ダグトリオ(アローラのすがた),Dugtrio(Alola Form),Triopikeur(Forme d'Alola),Dugtrio(Forma di Alola),Digdri(Alola-Form),Dugtrio(Forma de Alola),닥트리오(알로라의 모습),三地鼠(阿罗拉的样子),三地鼠(阿羅拉的樣子)
+60,52,ニャース,Meowth,Miaouss,Meowth,Mauzi,Meowth,나옹,喵喵,喵喵
+61,52,ニャース(アローラのすがた),Meowth(Alola Form),Miaouss(Forme d'Alola),Meowth(Forma di Alola),Mauzi(Alola-Form),Meowth(Forma de Alola),나옹(알로라의 모습),喵喵(阿罗拉的样子),喵喵(阿羅拉的樣子)
+62,53,ペルシアン,Persian,Persian,Persian,Snobilikat,Persian,페르시온,猫老大,貓老大
+63,53,ペルシアン(アローラのすがた),Persian(Alola Form),Persian(Forme d'Alola),Persian(Forma di Alola),Snobilikat(Alola-Form),Persian(Forma de Alola),페르시온(알로라의 모습),猫老大(阿罗拉的样子),貓老大(阿羅拉的樣子)
+64,54,コダック,Psyduck,Psykokwak,Psyduck,Enton,Psyduck,고라파덕,可达鸭,可達鴨
+65,55,ゴルダック,Golduck,Akwakwak,Golduck,Entoron,Golduck,골덕,哥达鸭,哥達鴨
+66,56,マンキー,Mankey,Férosinge,Mankey,Menki,Mankey,망키,猴怪,猴怪
+67,57,オコリザル,Primeape,Colossinge,Primeape,Rasaff,Primeape,성원숭,火暴猴,火爆猴
+68,58,ガーディ,Growlithe,Caninos,Growlithe,Fukano,Growlithe,가디,卡蒂狗,卡蒂狗
+69,59,ウインディ,Arcanine,Arcanin,Arcanine,Arkani,Arcanine,윈디,风速狗,風速狗
+70,60,ニョロモ,Poliwag,Ptitard,Poliwag,Quapsel,Poliwag,발챙이,蚊香蝌蚪,蚊香蝌蚪
+71,61,ニョロゾ,Poliwhirl,Têtarte,Poliwhirl,Quaputzi,Poliwhirl,슈륙챙이,蚊香君,蚊香君
+72,62,ニョロボン,Poliwrath,Tartard,Poliwrath,Quappo,Poliwrath,강챙이,蚊香泳士,蚊香泳士
+73,63,ケーシィ,Abra,Abra,Abra,Abra,Abra,캐이시,凯西,凱西
+74,64,ユンゲラー,Kadabra,Kadabra,Kadabra,Kadabra,Kadabra,윤겔라,勇基拉,勇基拉
+75,65,フーディン,Alakazam,Alakazam,Alakazam,Simsala,Alakazam,후딘,胡地,胡地
+76,66,ワンリキー,Machop,Machoc,Machop,Machollo,Machop,알통몬,腕力,腕力
+77,67,ゴーリキー,Machoke,Machopeur,Machoke,Maschock,Machoke,근육몬,豪力,豪力
+78,68,カイリキー,Machamp,Mackogneur,Machamp,Machomei,Machamp,괴력몬,怪力,怪力
+79,69,マダツボミ,Bellsprout,Chétiflor,Bellsprout,Knofensa,Bellsprout,모다피,喇叭芽,喇叭芽
+80,70,ウツドン,Weepinbell,Boustiflor,Weepinbell,Ultrigaria,Weepinbell,우츠동,口呆花,口呆花
+81,71,ウツボット,Victreebel,Empiflor,Victreebel,Sarzenia,Victreebel,우츠보트,大食花,大食花
+82,72,メノクラゲ,Tentacool,Tentacool,Tentacool,Tentacha,Tentacool,왕눈해,玛瑙水母,瑪瑙水母
+83,73,ドククラゲ,Tentacruel,Tentacruel,Tentacruel,Tentoxa,Tentacruel,독파리,毒刺水母,毒刺水母
+84,74,イシツブテ,Geodude,Racaillou,Geodude,Kleinstein,Geodude,꼬마돌,小拳石,小拳石
+85,74,イシツブテ(アローラのすがた),Geodude(Alola Form),Racaillou(Forme d'Alola),Geodude(Forma di Alola),Kleinstein(Alola-Form),Geodude(Forma de Alola),꼬마돌(알로라의 모습),小拳石(阿罗拉的样子),小拳石(阿羅拉的樣子)
+86,75,ゴローン,Graveler,Gravalanch,Graveler,Georok,Graveler,데구리,隆隆石,隆隆石
+87,75,ゴローン(アローラのすがた),Graveler(Alola Form),Gravalanch(Forme d'Alola),Graveler(Forma di Alola),Georok(Alola-Form),Graveler(Forma de Alola),데구리(알로라의 모습),隆隆石(阿罗拉的样子),隆隆石(阿羅拉的樣子)
+88,76,ゴローニャ,Golem,Grolem,Golem,Geowaz,Golem,딱구리,隆隆岩,隆隆岩
+89,76,ゴローニャ(アローラのすがた),Golem(Alola Form),Grolem(Forme d'Alola),Golem(Forma di Alola),Geowaz(Alola-Form),Golem(Forma de Alola),딱구리(알로라의 모습),隆隆岩(阿罗拉的样子),隆隆岩(阿羅拉的樣子)
+90,77,ポニータ,Ponyta,Ponyta,Ponyta,Ponita,Ponyta,포니타,小火马,小火馬
+91,78,ギャロップ,Rapidash,Galopa,Rapidash,Gallopa,Rapidash,날쌩마,烈焰马,烈焰馬
+92,79,ヤドン,Slowpoke,Ramoloss,Slowpoke,Flegmon,Slowpoke,야돈,呆呆兽,呆呆獸
+93,80,ヤドラン,Slowbro,Flagadoss,Slowbro,Lahmus,Slowbro,야도란,呆壳兽,呆殼獸
+94,81,コイル,Magnemite,Magnéti,Magnemite,Magnetilo,Magnemite,코일,小磁怪,小磁怪
+95,82,レアコイル,Magneton,Magnéton,Magneton,Magneton,Magneton,레어코일,三合一磁怪,三合一磁怪
+96,83,カモネギ,Farfetch'd,Canarticho,Farfetch'd,Porenta,Farfetch'd,파오리,大葱鸭,大蔥鴨
+97,84,ドードー,Doduo,Doduo,Doduo,Dodu,Doduo,두두,嘟嘟,嘟嘟
+98,85,ドードリオ,Dodrio,Dodrio,Dodrio,Dodri,Dodrio,두트리오,嘟嘟利,嘟嘟利
+99,86,パウワウ,Seel,Otaria,Seel,Jurob,Seel,쥬쥬,小海狮,小海獅
+100,87,ジュゴン,Dewgong,Lamantine,Dewgong,Jugong,Dewgong,쥬레곤,白海狮,白海獅
+101,88,ベトベター,Grimer,Tadmorv,Grimer,Sleima,Grimer,질퍽이,臭泥,臭泥
+102,88,ベトベター(アローラのすがた),Grimer(Alola Form),Tadmorv(Forme d'Alola),Grimer(Forma di Alola),Sleima(Alola-Form),Grimer(Forma de Alola),질퍽이(알로라의 모습),臭泥(阿罗拉的样子),臭泥(阿羅拉的樣子)
+103,89,ベトベトン,Muk,Grotadmorv,Muk,Sleimok,Muk,질뻐기,臭臭泥,臭臭泥
+104,89,ベトベトン(アローラのすがた),Muk(Alola Form),Grotadmorv(Forme d'Alola),Muk(Forma di Alola),Sleimok(Alola-Form),Muk(Forma de Alola),질뻐기(알로라의 모습),臭臭泥(阿罗拉的样子),臭臭泥(阿羅拉的樣子)
+105,90,シェルダー,Shellder,Kokiyas,Shellder,Muschas,Shellder,셀러,大舌贝,大舌貝
+106,91,パルシェン,Cloyster,Crustabri,Cloyster,Austos,Cloyster,파르셀,刺甲贝,刺甲貝
+107,92,ゴース,Gastly,Fantominus,Gastly,Nebulak,Gastly,고오스,鬼斯,鬼斯
+108,93,ゴースト,Haunter,Spectrum,Haunter,Alpollo,Haunter,고우스트,鬼斯通,鬼斯通
+109,94,ゲンガー,Gengar,Ectoplasma,Gengar,Gengar,Gengar,팬텀,耿鬼,耿鬼
+110,95,イワーク,Onix,Onix,Onix,Onix,Onix,롱스톤,大岩蛇,大岩蛇
+111,96,スリープ,Drowzee,Soporifik,Drowzee,Traumato,Drowzee,슬리프,催眠貘,催眠貘
+112,97,スリーパー,Hypno,Hypnomade,Hypno,Hypno,Hypno,슬리퍼,引梦貘人,引夢貘人
+113,98,クラブ,Krabby,Krabby,Krabby,Krabby,Krabby,크랩,大钳蟹,大鉗蟹
+114,99,キングラー,Kingler,Krabboss,Kingler,Kingler,Kingler,킹크랩,巨钳蟹,巨鉗蟹
+115,100,ビリリダマ,Voltorb,Voltorbe,Voltorb,Voltobal,Voltorb,찌리리공,霹雳电球,霹靂電球
+116,101,マルマイン,Electrode,Électrode,Electrode,Lektrobal,Electrode,붐볼,顽皮雷弹,頑皮雷彈
+117,102,タマタマ,Exeggcute,Noeunoeuf,Exeggcute,Owei,Exeggcute,아라리,蛋蛋,蛋蛋
+118,103,ナッシー,Exeggutor,Noadkoko,Exeggutor,Kokowei,Exeggutor,나시,椰蛋树,椰蛋樹
+119,103,ナッシー(アローラのすがた),Exeggutor(Alola Form),Noadkoko(Forme d'Alola),Exeggutor(Forma di Alola),Kokowei(Alola-Form),Exeggutor(Forma de Alola),나시(알로라의 모습),椰蛋树(阿罗拉的样子),椰蛋樹(阿羅拉的樣子)
+120,104,カラカラ,Cubone,Osselait,Cubone,Tragosso,Cubone,탕구리,卡拉卡拉,卡拉卡拉
+121,105,ガラガラ,Marowak,Ossatueur,Marowak,Knogga,Marowak,텅구리,嘎啦嘎啦,嘎啦嘎啦
+122,105,ガラガラ(アローラのすがた),Marowak(Alola Form),Ossatueur(Forme d'Alola),Marowak(Forma di Alola),Knogga(Alola-Form),Marowak(Forma de Alola),텅구리(알로라의 모습),嘎啦嘎啦(阿罗拉的样子),嘎啦嘎啦(阿羅拉的樣子)
+123,106,サワムラー,Hitmonlee,Kicklee,Hitmonlee,Kicklee,Hitmonlee,시라소몬,飞腿郎,飛腿郎
+124,107,エビワラー,Hitmonchan,Tygnon,Hitmonchan,Nockchan,Hitmonchan,홍수몬,快拳郎,快拳郎
+125,108,ベロリンガ,Lickitung,Excelangue,Lickitung,Schlurp,Lickitung,내루미,大舌头,大舌頭
+126,109,ドガース,Koffing,Smogo,Koffing,Smogon,Koffing,또가스,瓦斯弹,瓦斯彈
+127,110,マタドガス,Weezing,Smogogo,Weezing,Smogmog,Weezing,또도가스,双弹瓦斯,雙彈瓦斯
+128,111,サイホーン,Rhyhorn,Rhinocorne,Rhyhorn,Rihorn,Rhyhorn,뿔카노,独角犀牛,獨角犀牛
+129,112,サイドン,Rhydon,Rhinoféros,Rhydon,Rizeros,Rhydon,코뿌리,钻角犀兽,鑽角犀獸
+130,113,ラッキー,Chansey,Leveinard,Chansey,Chaneira,Chansey,럭키,吉利蛋,吉利蛋
+131,114,モンジャラ,Tangela,Saquedeneu,Tangela,Tangela,Tangela,덩쿠리,蔓藤怪,蔓藤怪
+132,115,ガルーラ,Kangaskhan,Kangourex,Kangaskhan,Kangama,Kangaskhan,캥카,袋兽,袋獸
+133,116,タッツー,Horsea,Hypotrempe,Horsea,Seeper,Horsea,쏘드라,墨海马,墨海馬
+134,117,シードラ,Seadra,Hypocéan,Seadra,Seemon,Seadra,시드라,海刺龙,海刺龍
+135,118,トサキント,Goldeen,Poissirène,Goldeen,Goldini,Goldeen,콘치,角金鱼,角金魚
+136,119,アズマオウ,Seaking,Poissoroy,Seaking,Golking,Seaking,왕콘치,金鱼王,金魚王
+137,120,ヒトデマン,Staryu,Stari,Staryu,Sterndu,Staryu,별가사리,海星星,海星星
+138,121,スターミー,Starmie,Staross,Starmie,Starmie,Starmie,아쿠스타,宝石海星,寶石海星
+139,122,バリヤード,Mr. Mime,M. Mime,Mr. Mime,Pantimos,Mr. Mime,마임맨,魔墙人偶,魔牆人偶
+140,123,ストライク,Scyther,Insécateur,Scyther,Sichlor,Scyther,스라크,飞天螳螂,飛天螳螂
+141,124,ルージュラ,Jynx,Lippoutou,Jynx,Rossana,Jynx,루주라,迷唇姐,迷唇姐
+142,125,エレブー,Electabuzz,Élektek,Electabuzz,Elektek,Electabuzz,에레브,电击兽,電擊獸
+143,126,ブーバー,Magmar,Magmar,Magmar,Magmar,Magmar,마그마,鸭嘴火兽,鴨嘴火獸
+144,127,カイロス,Pinsir,Scarabrute,Pinsir,Pinsir,Pinsir,쁘사이저,凯罗斯,凱羅斯
+145,128,ケンタロス,Tauros,Tauros,Tauros,Tauros,Tauros,켄타로스,肯泰罗,肯泰羅
+146,129,コイキング,Magikarp,Magicarpe,Magikarp,Karpador,Magikarp,잉어킹,鲤鱼王,鯉魚王
+147,130,ギャラドス,Gyarados,Léviator,Gyarados,Garados,Gyarados,갸라도스,暴鲤龙,暴鯉龍
+148,131,ラプラス,Lapras,Lokhlass,Lapras,Lapras,Lapras,라프라스,拉普拉斯,拉普拉斯
+149,132,メタモン,Ditto,Métamorph,Ditto,Ditto,Ditto,메타몽,百变怪,百變怪
+150,133,イーブイ,Eevee,Évoli,Eevee,Evoli,Eevee,이브이,伊布,伊布
+151,134,シャワーズ,Vaporeon,Aquali,Vaporeon,Aquana,Vaporeon,샤미드,水伊布,水伊布
+152,135,サンダース,Jolteon,Voltali,Jolteon,Blitza,Jolteon,쥬피썬더,雷伊布,雷伊布
+153,136,ブースター,Flareon,Pyroli,Flareon,Flamara,Flareon,부스터,火伊布,火伊布
+154,137,ポリゴン,Porygon,Porygon,Porygon,Porygon,Porygon,폴리곤,多边兽,多邊獸
+155,138,オムナイト,Omanyte,Amonita,Omanyte,Amonitas,Omanyte,암나이트,菊石兽,菊石獸
+156,139,オムスター,Omastar,Amonistar,Omastar,Amoroso,Omastar,암스타,多刺菊石兽,多刺菊石獸
+157,140,カブト,Kabuto,Kabuto,Kabuto,Kabuto,Kabuto,투구,化石盔,化石盔
+158,141,カブトプス,Kabutops,Kabutops,Kabutops,Kabutops,Kabutops,투구푸스,镰刀盔,鐮刀盔
+159,142,プテラ,Aerodactyl,Ptéra,Aerodactyl,Aerodactyl,Aerodactyl,프테라,化石翼龙,化石翼龍
+160,143,カビゴン,Snorlax,Ronflex,Snorlax,Relaxo,Snorlax,잠만보,卡比兽,卡比獸
+161,144,フリーザー,Articuno,Artikodin,Articuno,Arktos,Articuno,프리져,急冻鸟,急凍鳥
+162,145,サンダー,Zapdos,Électhor,Zapdos,Zapdos,Zapdos,썬더,闪电鸟,閃電鳥
+163,146,ファイヤー,Moltres,Sulfura,Moltres,Lavados,Moltres,파이어,火焰鸟,火焰鳥
+164,147,ミニリュウ,Dratini,Minidraco,Dratini,Dratini,Dratini,미뇽,迷你龙,迷你龍
+165,148,ハクリュー,Dragonair,Draco,Dragonair,Dragonir,Dragonair,신뇽,哈克龙,哈克龍
+166,149,カイリュー,Dragonite,Dracolosse,Dragonite,Dragoran,Dragonite,망나뇽,快龙,快龍
+167,150,ミュウツー,Mewtwo,Mewtwo,Mewtwo,Mewtu,Mewtwo,뮤츠,超梦,超夢
+168,151,ミュウ,Mew,Mew,Mew,Mew,Mew,뮤,梦幻,夢幻
+169,152,チコリータ,Chikorita,Germignon,Chikorita,Endivie,Chikorita,치코리타,菊草叶,菊草葉
+170,153,ベイリーフ,Bayleef,Macronium,Bayleef,Lorblatt,Bayleef,베이리프,月桂叶,月桂葉
+171,154,メガニウム,Meganium,Méganium,Meganium,Meganie,Meganium,메가니움,大竺葵,大竺葵
+172,155,ヒノアラシ,Cyndaquil,Héricendre,Cyndaquil,Feurigel,Cyndaquil,브케인,火球鼠,火球鼠
+173,156,マグマラシ,Quilava,Feurisson,Quilava,Igelavar,Quilava,마그케인,火岩鼠,火岩鼠
+174,157,バクフーン,Typhlosion,Typhlosion,Typhlosion,Tornupto,Typhlosion,블레이범,火暴兽,火爆獸
+175,158,ワニノコ,Totodile,Kaiminus,Totodile,Karnimani,Totodile,리아코,小锯鳄,小鋸鱷
+176,159,アリゲイツ,Croconaw,Crocrodil,Croconaw,Tyracroc,Croconaw,엘리게이,蓝鳄,藍鱷
+177,160,オーダイル,Feraligatr,Aligatueur,Feraligatr,Impergator,Feraligatr,장크로다일,大力鳄,大力鱷
+178,161,オタチ,Sentret,Fouinette,Sentret,Wiesor,Sentret,꼬리선,尾立,尾立
+179,162,オオタチ,Furret,Fouinar,Furret,Wiesenior,Furret,다꼬리,大尾立,大尾立
+180,163,ホーホー,Hoothoot,Hoothoot,Hoothoot,Hoothoot,Hoothoot,부우부,咕咕,咕咕
+181,164,ヨルノズク,Noctowl,Noarfang,Noctowl,Noctuh,Noctowl,야부엉,猫头夜鹰,貓頭夜鷹
+182,165,レディバ,Ledyba,Coxy,Ledyba,Ledyba,Ledyba,레디바,芭瓢虫,芭瓢蟲
+183,166,レディアン,Ledian,Coxyclaque,Ledian,Ledian,Ledian,레디안,安瓢虫,安瓢蟲
+184,167,イトマル,Spinarak,Mimigal,Spinarak,Webarak,Spinarak,페이검,圆丝蛛,圓絲蛛
+185,168,アリアドス,Ariados,Migalos,Ariados,Ariados,Ariados,아리아도스,阿利多斯,阿利多斯
+186,169,クロバット,Crobat,Nostenfer,Crobat,Iksbat,Crobat,크로뱃,叉字蝠,叉字蝠
+187,170,チョンチー,Chinchou,Loupio,Chinchou,Lampi,Chinchou,초라기,灯笼鱼,燈籠魚
+188,171,ランターン,Lanturn,Lanturn,Lanturn,Lanturn,Lanturn,랜턴,电灯怪,電燈怪
+189,172,ピチュー,Pichu,Pichu,Pichu,Pichu,Pichu,피츄,皮丘,皮丘
+190,173,ピィ,Cleffa,Mélo,Cleffa,Pii,Cleffa,삐,皮宝宝,皮寶寶
+191,174,ププリン,Igglybuff,Toudoudou,Igglybuff,Fluffeluff,Igglybuff,푸푸린,宝宝丁,寶寶丁
+192,175,トゲピー,Togepi,Togepi,Togepi,Togepi,Togepi,토게피,波克比,波克比
+193,176,トゲチック,Togetic,Togetic,Togetic,Togetic,Togetic,토게틱,波克基古,波克基古
+194,177,ネイティ,Natu,Natu,Natu,Natu,Natu,네이티,天然雀,天然雀
+195,178,ネイティオ,Xatu,Xatu,Xatu,Xatu,Xatu,네이티오,天然鸟,天然鳥
+196,179,メリープ,Mareep,Wattouat,Mareep,Voltilamm,Mareep,메리프,咩利羊,咩利羊
+197,180,モココ,Flaaffy,Lainergie,Flaaffy,Waaty,Flaaffy,보송송,茸茸羊,茸茸羊
+198,181,デンリュウ,Ampharos,Pharamp,Ampharos,Ampharos,Ampharos,전룡,电龙,電龍
+199,182,キレイハナ,Bellossom,Joliflor,Bellossom,Blubella,Bellossom,아르코,美丽花,美麗花
+200,183,マリル,Marill,Marill,Marill,Marill,Marill,마릴,玛力露,瑪力露
+201,184,マリルリ,Azumarill,Azumarill,Azumarill,Azumarill,Azumarill,마릴리,玛力露丽,瑪力露麗
+202,185,ウソッキー,Sudowoodo,Simularbre,Sudowoodo,Mogelbaum,Sudowoodo,꼬지모,树才怪,樹才怪
+203,186,ニョロトノ,Politoed,Tarpaud,Politoed,Quaxo,Politoed,왕구리,蚊香蛙皇,蚊香蛙皇
+204,187,ハネッコ,Hoppip,Granivol,Hoppip,Hoppspross,Hoppip,통통코,毽子草,毽子草
+205,188,ポポッコ,Skiploom,Floravol,Skiploom,Hubelupf,Skiploom,두코,毽子花,毽子花
+206,189,ワタッコ,Jumpluff,Cotovol,Jumpluff,Papungha,Jumpluff,솜솜코,毽子棉,毽子棉
+207,190,エイパム,Aipom,Capumain,Aipom,Griffel,Aipom,에이팜,长尾怪手,長尾怪手
+208,191,ヒマナッツ,Sunkern,Tournegrin,Sunkern,Sonnkern,Sunkern,해너츠,向日种子,向日種子
+209,192,キマワリ,Sunflora,Héliatronc,Sunflora,Sonnflora,Sunflora,해루미,向日花怪,向日花怪
+210,193,ヤンヤンマ,Yanma,Yanma,Yanma,Yanma,Yanma,왕자리,蜻蜻蜓,蜻蜻蜓
+211,194,ウパー,Wooper,Axoloto,Wooper,Felino,Wooper,우파,乌波,烏波
+212,195,ヌオー,Quagsire,Maraiste,Quagsire,Morlord,Quagsire,누오,沼王,沼王
+213,196,エーフィ,Espeon,Mentali,Espeon,Psiana,Espeon,에브이,太阳伊布,太陽伊布
+214,197,ブラッキー,Umbreon,Noctali,Umbreon,Nachtara,Umbreon,블래키,月亮伊布,月亮伊布
+215,198,ヤミカラス,Murkrow,Cornèbre,Murkrow,Kramurx,Murkrow,니로우,黑暗鸦,黑暗鴉
+216,199,ヤドキング,Slowking,Roigada,Slowking,Laschoking,Slowking,야도킹,呆呆王,呆呆王
+217,200,ムウマ,Misdreavus,Feuforêve,Misdreavus,Traunfugil,Misdreavus,무우마,梦妖,夢妖
+218,201,アンノーン,Unown,Zarbi,Unown,Icognito,Unown,안농,未知图腾,未知圖騰
+219,202,ソーナンス,Wobbuffet,Qulbutoké,Wobbuffet,Woingenau,Wobbuffet,마자용,果然翁,果然翁
+220,203,キリンリキ,Girafarig,Girafarig,Girafarig,Girafarig,Girafarig,키링키,麒麟奇,麒麟奇
+221,204,クヌギダマ,Pineco,Pomdepik,Pineco,Tannza,Pineco,피콘,榛果球,榛果球
+222,205,フォレトス,Forretress,Foretress,Forretress,Forstellka,Forretress,쏘콘,佛烈托斯,佛烈托斯
+223,206,ノコッチ,Dunsparce,Insolourdo,Dunsparce,Dummisel,Dunsparce,노고치,土龙弟弟,土龍弟弟
+224,207,グライガー,Gligar,Scorplane,Gligar,Skorgla,Gligar,글라이거,天蝎,天蠍
+225,208,ハガネール,Steelix,Steelix,Steelix,Stahlos,Steelix,강철톤,大钢蛇,大鋼蛇
+226,209,ブルー,Snubbull,Snubbull,Snubbull,Snubbull,Snubbull,블루,布鲁,布魯
+227,210,グランブル,Granbull,Granbull,Granbull,Granbull,Granbull,그랑블루,布鲁皇,布魯皇
+228,211,ハリーセン,Qwilfish,Qwilfish,Qwilfish,Baldorfish,Qwilfish,침바루,千针鱼,千針魚
+229,212,ハッサム,Scizor,Cizayox,Scizor,Scherox,Scizor,핫삼,巨钳螳螂,巨鉗螳螂
+230,213,ツボツボ,Shuckle,Caratroc,Shuckle,Pottrott,Shuckle,단단지,壶壶,壺壺
+231,214,ヘラクロス,Heracross,Scarhino,Heracross,Skaraborn,Heracross,헤라크로스,赫拉克罗斯,赫拉克羅斯
+232,215,ニューラ,Sneasel,Farfuret,Sneasel,Sniebel,Sneasel,포푸니,狃拉,狃拉
+233,216,ヒメグマ,Teddiursa,Teddiursa,Teddiursa,Teddiursa,Teddiursa,깜지곰,熊宝宝,熊寶寶
+234,217,リングマ,Ursaring,Ursaring,Ursaring,Ursaring,Ursaring,링곰,圈圈熊,圈圈熊
+235,218,マグマッグ,Slugma,Limagma,Slugma,Schneckmag,Slugma,마그마그,熔岩虫,熔岩蟲
+236,219,マグカルゴ,Magcargo,Volcaropod,Magcargo,Magcargo,Magcargo,마그카르고,熔岩蜗牛,熔岩蝸牛
+237,220,ウリムー,Swinub,Marcacrin,Swinub,Quiekel,Swinub,꾸꾸리,小山猪,小山豬
+238,221,イノムー,Piloswine,Cochignon,Piloswine,Keifel,Piloswine,메꾸리,长毛猪,長毛豬
+239,222,サニーゴ,Corsola,Corayon,Corsola,Corasonn,Corsola,코산호,太阳珊瑚,太陽珊瑚
+240,223,テッポウオ,Remoraid,Rémoraid,Remoraid,Remoraid,Remoraid,총어,铁炮鱼,鐵炮魚
+241,224,オクタン,Octillery,Octillery,Octillery,Octillery,Octillery,대포무노,章鱼桶,章魚桶
+242,225,デリバード,Delibird,Cadoizo,Delibird,Botogel,Delibird,딜리버드,信使鸟,信使鳥
+243,226,マンタイン,Mantine,Démanta,Mantine,Mantax,Mantine,만타인,巨翅飞鱼,巨翅飛魚
+244,227,エアームド,Skarmory,Airmure,Skarmory,Panzaeron,Skarmory,무장조,盔甲鸟,盔甲鳥
+245,228,デルビル,Houndour,Malosse,Houndour,Hunduster,Houndour,델빌,戴鲁比,戴魯比
+246,229,ヘルガー,Houndoom,Démolosse,Houndoom,Hundemon,Houndoom,헬가,黑鲁加,黑魯加
+247,230,キングドラ,Kingdra,Hyporoi,Kingdra,Seedraking,Kingdra,킹드라,刺龙王,刺龍王
+248,231,ゴマゾウ,Phanpy,Phanpy,Phanpy,Phanpy,Phanpy,코코리,小小象,小小象
+249,232,ドンファン,Donphan,Donphan,Donphan,Donphan,Donphan,코리갑,顿甲,頓甲
+250,233,ポリゴン２,Porygon2,Porygon2,Porygon2,Porygon2,Porygon2,폴리곤2,多边兽Ⅱ,多邊獸Ⅱ
+251,234,オドシシ,Stantler,Cerfrousse,Stantler,Damhirplex,Stantler,노라키,惊角鹿,驚角鹿
+252,235,ドーブル,Smeargle,Queulorior,Smeargle,Farbeagle,Smeargle,루브도,图图犬,圖圖犬
+253,236,バルキー,Tyrogue,Debugant,Tyrogue,Rabauz,Tyrogue,배루키,无畏小子,無畏小子
+254,237,カポエラー,Hitmontop,Kapoera,Hitmontop,Kapoera,Hitmontop,카포에라,战舞郎,戰舞郎
+255,238,ムチュール,Smoochum,Lippouti,Smoochum,Kussilla,Smoochum,뽀뽀라,迷唇娃,迷唇娃
+256,239,エレキッド,Elekid,Élekid,Elekid,Elekid,Elekid,에레키드,电击怪,電擊怪
+257,240,ブビィ,Magby,Magby,Magby,Magby,Magby,마그비,鸭嘴宝宝,鴨嘴寶寶
+258,241,ミルタンク,Miltank,Écrémeuh,Miltank,Miltank,Miltank,밀탱크,大奶罐,大奶罐
+259,242,ハピナス,Blissey,Leuphorie,Blissey,Heiteira,Blissey,해피너스,幸福蛋,幸福蛋
+260,243,ライコウ,Raikou,Raikou,Raikou,Raikou,Raikou,라이코,雷公,雷公
+261,244,エンテイ,Entei,Entei,Entei,Entei,Entei,앤테이,炎帝,炎帝
+262,245,スイクン,Suicune,Suicune,Suicune,Suicune,Suicune,스이쿤,水君,水君
+263,246,ヨーギラス,Larvitar,Embrylex,Larvitar,Larvitar,Larvitar,애버라스,幼基拉斯,幼基拉斯
+264,247,サナギラス,Pupitar,Ymphect,Pupitar,Pupitar,Pupitar,데기라스,沙基拉斯,沙基拉斯
+265,248,バンギラス,Tyranitar,Tyranocif,Tyranitar,Despotar,Tyranitar,마기라스,班基拉斯,班基拉斯
+266,249,ルギア,Lugia,Lugia,Lugia,Lugia,Lugia,루기아,洛奇亚,洛奇亞
+267,250,ホウオウ,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,칠색조,凤王,鳳王
+268,251,セレビィ,Celebi,Celebi,Celebi,Celebi,Celebi,세레비,时拉比,時拉比
+269,252,キモリ,Treecko,Arcko,Treecko,Geckarbor,Treecko,나무지기,木守宫,木守宮
+270,253,ジュプトル,Grovyle,Massko,Grovyle,Reptain,Grovyle,나무돌이,森林蜥蜴,森林蜥蜴
+271,254,ジュカイン,Sceptile,Jungko,Sceptile,Gewaldro,Sceptile,나무킹,蜥蜴王,蜥蜴王
+272,255,アチャモ,Torchic,Poussifeu,Torchic,Flemmli,Torchic,아차모,火稚鸡,火稚雞
+273,256,ワカシャモ,Combusken,Galifeu,Combusken,Jungglut,Combusken,영치코,力壮鸡,力壯雞
+274,257,バシャーモ,Blaziken,Braségali,Blaziken,Lohgock,Blaziken,번치코,火焰鸡,火焰雞
+275,258,ミズゴロウ,Mudkip,Gobou,Mudkip,Hydropi,Mudkip,물짱이,水跃鱼,水躍魚
+276,259,ヌマクロー,Marshtomp,Flobio,Marshtomp,Moorabbel,Marshtomp,늪짱이,沼跃鱼,沼躍魚
+277,260,ラグラージ,Swampert,Laggron,Swampert,Sumpex,Swampert,대짱이,巨沼怪,巨沼怪
+278,261,ポチエナ,Poochyena,Medhyèna,Poochyena,Fiffyen,Poochyena,포챠나,土狼犬,土狼犬
+279,262,グラエナ,Mightyena,Grahyèna,Mightyena,Magnayen,Mightyena,그라에나,大狼犬,大狼犬
+280,263,ジグザグマ,Zigzagoon,Zigzaton,Zigzagoon,Zigzachs,Zigzagoon,지그제구리,蛇纹熊,蛇紋熊
+281,264,マッスグマ,Linoone,Linéon,Linoone,Geradaks,Linoone,직구리,直冲熊,直衝熊
+282,265,ケムッソ,Wurmple,Chenipotte,Wurmple,Waumpel,Wurmple,개무소,刺尾虫,刺尾蟲
+283,266,カラサリス,Silcoon,Armulys,Silcoon,Schaloko,Silcoon,실쿤,甲壳茧,甲殼繭
+284,267,アゲハント,Beautifly,Charmillon,Beautifly,Papinella,Beautifly,뷰티플라이,狩猎凤蝶,狩獵鳳蝶
+285,268,マユルド,Cascoon,Blindalys,Cascoon,Panekon,Cascoon,카스쿤,盾甲茧,盾甲繭
+286,269,ドクケイル,Dustox,Papinox,Dustox,Pudox,Dustox,독케일,毒粉蛾,毒粉蛾
+287,270,ハスボー,Lotad,Nénupiot,Lotad,Loturzel,Lotad,연꽃몬,莲叶童子,蓮葉童子
+288,271,ハスブレロ,Lombre,Lombre,Lombre,Lombrero,Lombre,로토스,莲帽小童,蓮帽小童
+289,272,ルンパッパ,Ludicolo,Ludicolo,Ludicolo,Kappalores,Ludicolo,로파파,乐天河童,樂天河童
+290,273,タネボー,Seedot,Grainipiot,Seedot,Samurzel,Seedot,도토링,橡实果,橡實果
+291,274,コノハナ,Nuzleaf,Pifeuil,Nuzleaf,Blanas,Nuzleaf,잎새코,长鼻叶,長鼻葉
+292,275,ダーテング,Shiftry,Tengalice,Shiftry,Tengulist,Shiftry,다탱구,狡猾天狗,狡猾天狗
+293,276,スバメ,Taillow,Nirondelle,Taillow,Schwalbini,Taillow,테일로,傲骨燕,傲骨燕
+294,277,オオスバメ,Swellow,Hélédelle,Swellow,Schwalboss,Swellow,스왈로,大王燕,大王燕
+295,278,キャモメ,Wingull,Goélise,Wingull,Wingull,Wingull,갈모매,长翅鸥,長翅鷗
+296,279,ペリッパー,Pelipper,Bekipan,Pelipper,Pelipper,Pelipper,패리퍼,大嘴鸥,大嘴鷗
+297,280,ラルトス,Ralts,Tarsal,Ralts,Trasla,Ralts,랄토스,拉鲁拉丝,拉魯拉絲
+298,281,キルリア,Kirlia,Kirlia,Kirlia,Kirlia,Kirlia,킬리아,奇鲁莉安,奇魯莉安
+299,282,サーナイト,Gardevoir,Gardevoir,Gardevoir,Guardevoir,Gardevoir,가디안,沙奈朵,沙奈朵
+300,283,アメタマ,Surskit,Arakdo,Surskit,Gehweiher,Surskit,비구술,溜溜糖球,溜溜糖球
+301,284,アメモース,Masquerain,Maskadra,Masquerain,Maskeregen,Masquerain,비나방,雨翅蛾,雨翅蛾
+302,285,キノココ,Shroomish,Balignon,Shroomish,Knilz,Shroomish,버섯꼬,蘑蘑菇,蘑蘑菇
+303,286,キノガッサ,Breloom,Chapignon,Breloom,Kapilz,Breloom,버섯모,斗笠菇,斗笠菇
+304,287,ナマケロ,Slakoth,Parecool,Slakoth,Bummelz,Slakoth,게을로,懒人獭,懶人獺
+305,288,ヤルキモノ,Vigoroth,Vigoroth,Vigoroth,Muntier,Vigoroth,발바로,过动猿,過動猿
+306,289,ケッキング,Slaking,Monaflèmit,Slaking,Letarking,Slaking,게을킹,请假王,請假王
+307,290,ツチニン,Nincada,Ningale,Nincada,Nincada,Nincada,토중몬,土居忍士,土居忍士
+308,291,テッカニン,Ninjask,Ninjask,Ninjask,Ninjask,Ninjask,아이스크,铁面忍者,鐵面忍者
+309,292,ヌケニン,Shedinja,Munja,Shedinja,Ninjatom,Shedinja,껍질몬,脱壳忍者,脫殼忍者
+310,293,ゴニョニョ,Whismur,Chuchmur,Whismur,Flurmel,Whismur,소곤룡,咕妞妞,咕妞妞
+311,294,ドゴーム,Loudred,Ramboum,Loudred,Krakeelo,Loudred,노공룡,吼爆弹,吼爆彈
+312,295,バクオング,Exploud,Brouhabam,Exploud,Krawumms,Exploud,폭음룡,爆音怪,爆音怪
+313,296,マクノシタ,Makuhita,Makuhita,Makuhita,Makuhita,Makuhita,마크탕,幕下力士,幕下力士
+314,297,ハリテヤマ,Hariyama,Hariyama,Hariyama,Hariyama,Hariyama,하리뭉,铁掌力士,鐵掌力士
+315,298,ルリリ,Azurill,Azurill,Azurill,Azurill,Azurill,루리리,露力丽,露力麗
+316,299,ノズパス,Nosepass,Tarinor,Nosepass,Nasgnet,Nosepass,코코파스,朝北鼻,朝北鼻
+317,300,エネコ,Skitty,Skitty,Skitty,Eneco,Skitty,에나비,向尾喵,向尾喵
+318,301,エネコロロ,Delcatty,Delcatty,Delcatty,Enekoro,Delcatty,델케티,优雅猫,優雅貓
+319,302,ヤミラミ,Sableye,Ténéfix,Sableye,Zobiris,Sableye,깜까미,勾魂眼,勾魂眼
+320,303,クチート,Mawile,Mysdibule,Mawile,Flunkifer,Mawile,입치트,大嘴娃,大嘴娃
+321,304,ココドラ,Aron,Galekid,Aron,Stollunior,Aron,가보리,可可多拉,可可多拉
+322,305,コドラ,Lairon,Galegon,Lairon,Stollrak,Lairon,갱도라,可多拉,可多拉
+323,306,ボスゴドラ,Aggron,Galeking,Aggron,Stolloss,Aggron,보스로라,波士可多拉,波士可多拉
+324,307,アサナン,Meditite,Méditikka,Meditite,Meditie,Meditite,요가랑,玛沙那,瑪沙那
+325,308,チャーレム,Medicham,Charmina,Medicham,Meditalis,Medicham,요가램,恰雷姆,恰雷姆
+326,309,ラクライ,Electrike,Dynavolt,Electrike,Frizelbliz,Electrike,썬더라이,落雷兽,落雷獸
+327,310,ライボルト,Manectric,Élecsprint,Manectric,Voltenso,Manectric,썬더볼트,雷电兽,雷電獸
+328,311,プラスル,Plusle,Posipi,Plusle,Plusle,Plusle,플러시,正电拍拍,正電拍拍
+329,312,マイナン,Minun,Négapi,Minun,Minun,Minun,마이농,负电拍拍,負電拍拍
+330,313,バルビート,Volbeat,Muciole,Volbeat,Volbeat,Volbeat,볼비트,电萤虫,電螢蟲
+331,314,イルミーゼ,Illumise,Lumivole,Illumise,Illumise,Illumise,네오비트,甜甜萤,甜甜螢
+332,315,ロゼリア,Roselia,Rosélia,Roselia,Roselia,Roselia,로젤리아,毒蔷薇,毒薔薇
+333,316,ゴクリン,Gulpin,Gloupti,Gulpin,Schluppuck,Gulpin,꼴깍몬,溶食兽,溶食獸
+334,317,マルノーム,Swalot,Avaltout,Swalot,Schlukwech,Swalot,꿀꺽몬,吞食兽,吞食獸
+335,318,キバニア,Carvanha,Carvanha,Carvanha,Kanivanha,Carvanha,샤프니아,利牙鱼,利牙魚
+336,319,サメハダー,Sharpedo,Sharpedo,Sharpedo,Tohaido,Sharpedo,샤크니아,巨牙鲨,巨牙鯊
+337,320,ホエルコ,Wailmer,Wailmer,Wailmer,Wailmer,Wailmer,고래왕자,吼吼鲸,吼吼鯨
+338,321,ホエルオー,Wailord,Wailord,Wailord,Wailord,Wailord,고래왕,吼鲸王,吼鯨王
+339,322,ドンメル,Numel,Chamallot,Numel,Camaub,Numel,둔타,呆火驼,呆火駝
+340,323,バクーダ,Camerupt,Camérupt,Camerupt,Camerupt,Camerupt,폭타,喷火驼,噴火駝
+341,324,コータス,Torkoal,Chartor,Torkoal,Qurtel,Torkoal,코터스,煤炭龟,煤炭龜
+342,325,バネブー,Spoink,Spoink,Spoink,Spoink,Spoink,피그점프,跳跳猪,跳跳豬
+343,326,ブーピッグ,Grumpig,Groret,Grumpig,Groink,Grumpig,피그킹,噗噗猪,噗噗豬
+344,327,パッチール,Spinda,Spinda,Spinda,Pandir,Spinda,얼루기,晃晃斑,晃晃斑
+345,328,ナックラー,Trapinch,Kraknoix,Trapinch,Knacklion,Trapinch,톱치,大颚蚁,大顎蟻
+346,329,ビブラーバ,Vibrava,Vibraninf,Vibrava,Vibrava,Vibrava,비브라바,超音波幼虫,超音波幼蟲
+347,330,フライゴン,Flygon,Libégon,Flygon,Libelldra,Flygon,플라이곤,沙漠蜻蜓,沙漠蜻蜓
+348,331,サボネア,Cacnea,Cacnea,Cacnea,Tuska,Cacnea,선인왕,刺球仙人掌,刺球仙人掌
+349,332,ノクタス,Cacturne,Cacturne,Cacturne,Noktuska,Cacturne,밤선인,梦歌仙人掌,夢歌仙人掌
+350,333,チルット,Swablu,Tylton,Swablu,Wablu,Swablu,파비코,青绵鸟,青綿鳥
+351,334,チルタリス,Altaria,Altaria,Altaria,Altaria,Altaria,파비코리,七夕青鸟,七夕青鳥
+352,335,ザングース,Zangoose,Mangriff,Zangoose,Sengo,Zangoose,쟝고,猫鼬斩,貓鼬斬
+353,336,ハブネーク,Seviper,Séviper,Seviper,Vipitis,Seviper,세비퍼,饭匙蛇,飯匙蛇
+354,337,ルナトーン,Lunatone,Séléroc,Lunatone,Lunastein,Lunatone,루나톤,月石,月石
+355,338,ソルロック,Solrock,Solaroc,Solrock,Sonnfel,Solrock,솔록,太阳岩,太陽岩
+356,339,ドジョッチ,Barboach,Barloche,Barboach,Schmerbe,Barboach,미꾸리,泥泥鳅,泥泥鰍
+357,340,ナマズン,Whiscash,Barbicha,Whiscash,Welsar,Whiscash,메깅,鲶鱼王,鯰魚王
+358,341,ヘイガニ,Corphish,Écrapince,Corphish,Krebscorps,Corphish,가재군,龙虾小兵,龍蝦小兵
+359,342,シザリガー,Crawdaunt,Colhomard,Crawdaunt,Krebutack,Crawdaunt,가재장군,铁螯龙虾,鐵螯龍蝦
+360,343,ヤジロン,Baltoy,Balbuto,Baltoy,Puppance,Baltoy,오뚝군,天秤偶,天秤偶
+361,344,ネンドール,Claydol,Kaorine,Claydol,Lepumentas,Claydol,점토도리,念力土偶,念力土偶
+362,345,リリーラ,Lileep,Lilia,Lileep,Liliep,Lileep,릴링,触手百合,觸手百合
+363,346,ユレイドル,Cradily,Vacilys,Cradily,Wielie,Cradily,릴리요,摇篮百合,搖籃百合
+364,347,アノプス,Anorith,Anorith,Anorith,Anorith,Anorith,아노딥스,太古羽虫,太古羽蟲
+365,348,アーマルド,Armaldo,Armaldo,Armaldo,Armaldo,Armaldo,아말도,太古盔甲,太古盔甲
+366,349,ヒンバス,Feebas,Barpau,Feebas,Barschwa,Feebas,빈티나,丑丑鱼,醜醜魚
+367,350,ミロカロス,Milotic,Milobellus,Milotic,Milotic,Milotic,밀로틱,美纳斯,美納斯
+368,351,ポワルン,Castform,Morphéo,Castform,Formeo,Castform,캐스퐁,飘浮泡泡,飄浮泡泡
+369,352,カクレオン,Kecleon,Kecleon,Kecleon,Kecleon,Kecleon,켈리몬,变隐龙,變隱龍
+370,353,カゲボウズ,Shuppet,Polichombr,Shuppet,Shuppet,Shuppet,어둠대신,怨影娃娃,怨影娃娃
+371,354,ジュペッタ,Banette,Branette,Banette,Banette,Banette,다크펫,诅咒娃娃,詛咒娃娃
+372,355,ヨマワル,Duskull,Skelénox,Duskull,Zwirrlicht,Duskull,해골몽,夜巡灵,夜巡靈
+373,356,サマヨール,Dusclops,Téraclope,Dusclops,Zwirrklop,Dusclops,미라몽,彷徨夜灵,彷徨夜靈
+374,357,トロピウス,Tropius,Tropius,Tropius,Tropius,Tropius,트로피우스,热带龙,熱帶龍
+375,358,チリーン,Chimecho,Éoko,Chimecho,Palimpalim,Chimecho,치렁,风铃铃,風鈴鈴
+376,359,アブソル,Absol,Absol,Absol,Absol,Absol,앱솔,阿勃梭鲁,阿勃梭魯
+377,360,ソーナノ,Wynaut,Okéoké,Wynaut,Isso,Wynaut,마자,小果然,小果然
+378,361,ユキワラシ,Snorunt,Stalgamin,Snorunt,Schneppke,Snorunt,눈꼬마,雪童子,雪童子
+379,362,オニゴーリ,Glalie,Oniglali,Glalie,Firnontor,Glalie,얼음귀신,冰鬼护,冰鬼護
+380,363,タマザラシ,Spheal,Obalie,Spheal,Seemops,Spheal,대굴레오,海豹球,海豹球
+381,364,トドグラー,Sealeo,Phogleur,Sealeo,Seejong,Sealeo,씨레오,海魔狮,海魔獅
+382,365,トドゼルガ,Walrein,Kaimorse,Walrein,Walraisa,Walrein,씨카이저,帝牙海狮,帝牙海獅
+383,366,パールル,Clamperl,Coquiperl,Clamperl,Perlu,Clamperl,진주몽,珍珠贝,珍珠貝
+384,367,ハンテール,Huntail,Serpang,Huntail,Aalabyss,Huntail,헌테일,猎斑鱼,獵斑魚
+385,368,サクラビス,Gorebyss,Rosabyss,Gorebyss,Saganabyss,Gorebyss,분홍장이,樱花鱼,櫻花魚
+386,369,ジーランス,Relicanth,Relicanth,Relicanth,Relicanth,Relicanth,시라칸,古空棘鱼,古空棘魚
+387,370,ラブカス,Luvdisc,Lovdisc,Luvdisc,Liebiskus,Luvdisc,사랑동이,爱心鱼,愛心魚
+388,371,タツベイ,Bagon,Draby,Bagon,Kindwurm,Bagon,아공이,宝贝龙,寶貝龍
+389,372,コモルー,Shelgon,Drackhaus,Shelgon,Draschel,Shelgon,쉘곤,甲壳龙,甲殼龍
+390,373,ボーマンダ,Salamence,Drattak,Salamence,Brutalanda,Salamence,보만다,暴飞龙,暴飛龍
+391,374,ダンバル,Beldum,Terhal,Beldum,Tanhel,Beldum,메탕,铁哑铃,鐵啞鈴
+392,375,メタング,Metang,Métang,Metang,Metang,Metang,메탕구,金属怪,金屬怪
+393,376,メタグロス,Metagross,Métalosse,Metagross,Metagross,Metagross,메타그로스,巨金怪,巨金怪
+394,377,レジロック,Regirock,Regirock,Regirock,Regirock,Regirock,레지락,雷吉洛克,雷吉洛克
+395,378,レジアイス,Regice,Regice,Regice,Regice,Regice,레지아이스,雷吉艾斯,雷吉艾斯
+396,379,レジスチル,Registeel,Registeel,Registeel,Registeel,Registeel,레지스틸,雷吉斯奇鲁,雷吉斯奇魯
+397,380,ラティアス,Latias,Latias,Latias,Latias,Latias,라티아스,拉帝亚斯,拉帝亞斯
+398,381,ラティオス,Latios,Latios,Latios,Latios,Latios,라티오스,拉帝欧斯,拉帝歐斯
+399,382,カイオーガ,Kyogre,Kyogre,Kyogre,Kyogre,Kyogre,가이오가,盖欧卡,蓋歐卡
+400,383,グラードン,Groudon,Groudon,Groudon,Groudon,Groudon,그란돈,固拉多,固拉多
+401,384,レックウザ,Rayquaza,Rayquaza,Rayquaza,Rayquaza,Rayquaza,레쿠쟈,烈空坐,烈空坐
+402,385,ジラーチ,Jirachi,Jirachi,Jirachi,Jirachi,Jirachi,지라치,基拉祈,基拉祈
+403,386,デオキシス(ノーマルフォルム),Deoxys(Normal Forme),Deoxys(Forme Normale),Deoxys(Forma Normale),Deoxys(Normalform),Deoxys(Forma Normal),테오키스(노말폼),代欧奇希斯(普通形态),代歐奇希斯(普通形態)
+404,386,デオキシス(アタックフォルム),Deoxys(Attack Forme),Deoxys(Forme Attaque),Deoxys(Forma Attacco),Deoxys(Angriffsform),Deoxys(Forma Ataque),테오키스(어택폼),代欧奇希斯(攻击形态),代歐奇希斯(攻擊形態)
+405,386,デオキシス(ディフェンスフォルム),Deoxys(Defense Forme),Deoxys(Forme Défense),Deoxys(Forma Difesa),Deoxys(Verteidigungsform),Deoxys(Forma Defensa),테오키스(디펜스폼),代欧奇希斯(防御形态),代歐奇希斯(防禦形態)
+406,386,デオキシス(スピードフォルム),Deoxys(Speed Forme),Deoxys(Forme Vitesse),Deoxys(Forma Velocità),Deoxys(Initiativeform),Deoxys(Forma Velocidad),테오키스(스피드폼),代欧奇希斯(速度形态),代歐奇希斯(速度形態)
+407,387,ナエトル,Turtwig,Tortipouss,Turtwig,Chelast,Turtwig,모부기,草苗龟,草苗龜
+408,388,ハヤシガメ,Grotle,Boskara,Grotle,Chelcarain,Grotle,수풀부기,树林龟,樹林龜
+409,389,ドダイトス,Torterra,Torterra,Torterra,Chelterrar,Torterra,토대부기,土台龟,土台龜
+410,390,ヒコザル,Chimchar,Ouisticram,Chimchar,Panflam,Chimchar,불꽃숭이,小火焰猴,小火焰猴
+411,391,モウカザル,Monferno,Chimpenfeu,Monferno,Panpyro,Monferno,파이숭이,猛火猴,猛火猴
+412,392,ゴウカザル,Infernape,Simiabraz,Infernape,Panferno,Infernape,초염몽,烈焰猴,烈焰猴
+413,393,ポッチャマ,Piplup,Tiplouf,Piplup,Plinfa,Piplup,팽도리,波加曼,波加曼
+414,394,ポッタイシ,Prinplup,Prinplouf,Prinplup,Pliprin,Prinplup,팽태자,波皇子,波皇子
+415,395,エンペルト,Empoleon,Pingoléon,Empoleon,Impoleon,Empoleon,엠페르트,帝王拿波,帝王拿波
+416,396,ムックル,Starly,Étourmi,Starly,Staralili,Starly,찌르꼬,姆克儿,姆克兒
+417,397,ムクバード,Staravia,Étourvol,Staravia,Staravia,Staravia,찌르버드,姆克鸟,姆克鳥
+418,398,ムクホーク,Staraptor,Étouraptor,Staraptor,Staraptor,Staraptor,찌르호크,姆克鹰,姆克鷹
+419,399,ビッパ,Bidoof,Keunotor,Bidoof,Bidiza,Bidoof,비버니,大牙狸,大牙狸
+420,400,ビーダル,Bibarel,Castorno,Bibarel,Bidifas,Bibarel,비버통,大尾狸,大尾狸
+421,401,コロボーシ,Kricketot,Crikzik,Kricketot,Zirpurze,Kricketot,귀뚤뚜기,圆法师,圓法師
+422,402,コロトック,Kricketune,Mélokrik,Kricketune,Zirpeise,Kricketune,귀뚤톡크,音箱蟀,音箱蟀
+423,403,コリンク,Shinx,Lixy,Shinx,Sheinux,Shinx,꼬링크,小猫怪,小貓怪
+424,404,ルクシオ,Luxio,Luxio,Luxio,Luxio,Luxio,럭시오,勒克猫,勒克貓
+425,405,レントラー,Luxray,Luxray,Luxray,Luxtra,Luxray,렌트라,伦琴猫,倫琴貓
+426,406,スボミー,Budew,Rozbouton,Budew,Knospi,Budew,꼬몽울,含羞苞,含羞苞
+427,407,ロズレイド,Roserade,Roserade,Roserade,Roserade,Roserade,로즈레이드,罗丝雷朵,羅絲雷朵
+428,408,ズガイドス,Cranidos,Kranidos,Cranidos,Koknodon,Cranidos,두개도스,头盖龙,頭蓋龍
+429,409,ラムパルド,Rampardos,Charkos,Rampardos,Rameidon,Rampardos,램펄드,战槌龙,戰槌龍
+430,410,タテトプス,Shieldon,Dinoclier,Shieldon,Schilterus,Shieldon,방패톱스,盾甲龙,盾甲龍
+431,411,トリデプス,Bastiodon,Bastiodon,Bastiodon,Bollterus,Bastiodon,바리톱스,护城龙,護城龍
+432,412,ミノムッチ,Burmy,Cheniti,Burmy,Burmy,Burmy,도롱충이,结草儿,結草兒
+433,413,ミノマダム(くさきのミノ),Wormadam(Plant Cloak),Cheniselle(Cape Plante),Wormadam(Manto Pianta),Burmadame(Pflanzenumhang),Wormadam(Tronco Planta),도롱마담(초목도롱),结草贵妇(草木蓑衣),結草貴婦(草木蓑衣)
+434,413,ミノマダム(すなちのミノ),Wormadam(Sandy Cloak),Cheniselle(Cape Sable),Wormadam(Manto Sabbia),Burmadame(Sandumhang),Wormadam(Tronco Arena),도롱마담(모래땅도롱),结草贵妇(砂土蓑衣),結草貴婦(砂土蓑衣)
+435,413,ミノマダム(ゴミのミノ),Wormadam(Trash Cloak),Cheniselle(Cape Déchet),Wormadam(Manto Scarti),Burmadame(Lumpenumhang),Wormadam(Tronco Basura),도롱마담(슈레도롱),结草贵妇(垃圾蓑衣),結草貴婦(垃圾蓑衣)
+436,414,ガーメイル,Mothim,Papilord,Mothim,Moterpel,Mothim,나메일,绅士蛾,紳士蛾
+437,415,ミツハニー,Combee,Apitrini,Combee,Wadribie,Combee,세꿀버리,三蜜蜂,三蜜蜂
+438,416,ビークイン,Vespiquen,Apireine,Vespiquen,Honweisel,Vespiquen,비퀸,蜂女王,蜂女王
+439,417,パチリス,Pachirisu,Pachirisu,Pachirisu,Pachirisu,Pachirisu,파치리스,帕奇利兹,帕奇利茲
+440,418,ブイゼル,Buizel,Mustébouée,Buizel,Bamelin,Buizel,브이젤,泳圈鼬,泳圈鼬
+441,419,フローゼル,Floatzel,Mustéflott,Floatzel,Bojelin,Floatzel,플로젤,浮潜鼬,浮潛鼬
+442,420,チェリンボ,Cherubi,Ceribou,Cherubi,Kikugi,Cherubi,체리버,樱花宝,櫻花寶
+443,421,チェリム,Cherrim,Ceriflor,Cherrim,Kinoso,Cherrim,체리꼬,樱花儿,櫻花兒
+444,422,カラナクシ,Shellos,Sancoki,Shellos,Schalellos,Shellos,깝질무,无壳海兔,無殼海兔
+445,423,トリトドン,Gastrodon,Tritosor,Gastrodon,Gastrodon,Gastrodon,트리토돈,海兔兽,海兔獸
+446,424,エテボース,Ambipom,Capidextre,Ambipom,Ambidiffel,Ambipom,겟핸보숭,双尾怪手,雙尾怪手
+447,425,フワンテ,Drifloon,Baudrive,Drifloon,Driftlon,Drifloon,흔들풍손,飘飘球,飄飄球
+448,426,フワライド,Drifblim,Grodrive,Drifblim,Drifzepeli,Drifblim,둥실라이드,随风球,隨風球
+449,427,ミミロル,Buneary,Laporeille,Buneary,Haspiror,Buneary,이어롤,卷卷耳,捲捲耳
+450,428,ミミロップ,Lopunny,Lockpin,Lopunny,Schlapor,Lopunny,이어롭,长耳兔,長耳兔
+451,429,ムウマージ,Mismagius,Magirêve,Mismagius,Traunmagil,Mismagius,무우마직,梦妖魔,夢妖魔
+452,430,ドンカラス,Honchkrow,Corboss,Honchkrow,Kramshef,Honchkrow,돈크로우,乌鸦头头,烏鴉頭頭
+453,431,ニャルマー,Glameow,Chaglam,Glameow,Charmian,Glameow,나옹마,魅力喵,魅力喵
+454,432,ブニャット,Purugly,Chaffreux,Purugly,Shnurgarst,Purugly,몬냥이,东施喵,東施喵
+455,433,リーシャン,Chingling,Korillon,Chingling,Klingplim,Chingling,랑딸랑,铃铛响,鈴鐺響
+456,434,スカンプー,Stunky,Moufouette,Stunky,Skunkapuh,Stunky,스컹뿡,臭鼬噗,臭鼬噗
+457,435,スカタンク,Skuntank,Moufflair,Skuntank,Skuntank,Skuntank,스컹탱크,坦克臭鼬,坦克臭鼬
+458,436,ドーミラー,Bronzor,Archéomire,Bronzor,Bronzel,Bronzor,동미러,铜镜怪,銅鏡怪
+459,437,ドータクン,Bronzong,Archéodong,Bronzong,Bronzong,Bronzong,동탁군,青铜钟,青銅鐘
+460,438,ウソハチ,Bonsly,Manzaï,Bonsly,Mobai,Bonsly,꼬지지,盆才怪,盆才怪
+461,439,マネネ,Mime Jr.,Mime Jr.,Mime Jr.,Pantimimi,Mime Jr.,흉내내,魔尼尼,魔尼尼
+462,440,ピンプク,Happiny,Ptiravi,Happiny,Wonneira,Happiny,핑복,小福蛋,小福蛋
+463,441,ペラップ,Chatot,Pijako,Chatot,Plaudagei,Chatot,페라페,聒噪鸟,聒噪鳥
+464,442,ミカルゲ,Spiritomb,Spiritomb,Spiritomb,Kryppuk,Spiritomb,화강돌,花岩怪,花岩怪
+465,443,フカマル,Gible,Griknot,Gible,Kaumalat,Gible,딥상어동,圆陆鲨,圓陸鯊
+466,444,ガバイト,Gabite,Carmache,Gabite,Knarksel,Gabite,한바이트,尖牙陆鲨,尖牙陸鯊
+467,445,ガブリアス,Garchomp,Carchacrok,Garchomp,Knakrack,Garchomp,한카리아스,烈咬陆鲨,烈咬陸鯊
+468,446,ゴンベ,Munchlax,Goinfrex,Munchlax,Mampfaxo,Munchlax,먹고자,小卡比兽,小卡比獸
+469,447,リオル,Riolu,Riolu,Riolu,Riolu,Riolu,리오르,利欧路,利歐路
+470,448,ルカリオ,Lucario,Lucario,Lucario,Lucario,Lucario,루카리오,路卡利欧,路卡利歐
+471,449,ヒポポタス,Hippopotas,Hippopotas,Hippopotas,Hippopotas,Hippopotas,히포포타스,沙河马,沙河馬
+472,450,カバルドン,Hippowdon,Hippodocus,Hippowdon,Hippoterus,Hippowdon,하마돈,河马兽,河馬獸
+473,451,スコルピ,Skorupi,Rapion,Skorupi,Pionskora,Skorupi,스콜피,钳尾蝎,鉗尾蠍
+474,452,ドラピオン,Drapion,Drascore,Drapion,Piondragi,Drapion,드래피온,龙王蝎,龍王蠍
+475,453,グレッグル,Croagunk,Cradopaud,Croagunk,Glibunkel,Croagunk,삐딱구리,不良蛙,不良蛙
+476,454,ドクロッグ,Toxicroak,Coatox,Toxicroak,Toxiquak,Toxicroak,독개굴,毒骷蛙,毒骷蛙
+477,455,マスキッパ,Carnivine,Vortente,Carnivine,Venuflibis,Carnivine,무스틈니,尖牙笼,尖牙籠
+478,456,ケイコウオ,Finneon,Écayon,Finneon,Finneon,Finneon,형광어,荧光鱼,螢光魚
+479,457,ネオラント,Lumineon,Luminéon,Lumineon,Lumineon,Lumineon,네오라이트,霓虹鱼,霓虹魚
+480,458,タマンタ,Mantyke,Babimanta,Mantyke,Mantirps,Mantyke,타만타,小球飞鱼,小球飛魚
+481,459,ユキカブリ,Snover,Blizzi,Snover,Shnebedeck,Snover,눈쓰개,雪笠怪,雪笠怪
+482,460,ユキノオー,Abomasnow,Blizzaroi,Abomasnow,Rexblisar,Abomasnow,눈설왕,暴雪王,暴雪王
+483,461,マニューラ,Weavile,Dimoret,Weavile,Snibunna,Weavile,포푸니라,玛狃拉,瑪狃拉
+484,462,ジバコイル,Magnezone,Magnézone,Magnezone,Magnezone,Magnezone,자포코일,自爆磁怪,自爆磁怪
+485,463,ベロベルト,Lickilicky,Coudlangue,Lickilicky,Schlurplek,Lickilicky,내룸벨트,大舌舔,大舌舔
+486,464,ドサイドン,Rhyperior,Rhinastoc,Rhyperior,Rihornior,Rhyperior,거대코뿌리,超甲狂犀,超甲狂犀
+487,465,モジャンボ,Tangrowth,Bouldeneu,Tangrowth,Tangoloss,Tangrowth,덩쿠림보,巨蔓藤,巨蔓藤
+488,466,エレキブル,Electivire,Élekable,Electivire,Elevoltek,Electivire,에레키블,电击魔兽,電擊魔獸
+489,467,ブーバーン,Magmortar,Maganon,Magmortar,Magbrant,Magmortar,마그마번,鸭嘴炎兽,鴨嘴炎獸
+490,468,トゲキッス,Togekiss,Togekiss,Togekiss,Togekiss,Togekiss,토게키스,波克基斯,波克基斯
+491,469,メガヤンマ,Yanmega,Yanmega,Yanmega,Yanmega,Yanmega,메가자리,远古巨蜓,遠古巨蜓
+492,470,リーフィア,Leafeon,Phyllali,Leafeon,Folipurba,Leafeon,리피아,叶伊布,葉伊布
+493,471,グレイシア,Glaceon,Givrali,Glaceon,Glaziola,Glaceon,글레이시아,冰伊布,冰伊布
+494,472,グライオン,Gliscor,Scorvol,Gliscor,Skorgro,Gliscor,글라이온,天蝎王,天蠍王
+495,473,マンムー,Mamoswine,Mammochon,Mamoswine,Mamutel,Mamoswine,맘모꾸리,象牙猪,象牙豬
+496,474,ポリゴンＺ,Porygon-Z,Porygon-Z,Porygon-Z,Porygon-Z,Porygon-Z,폴리곤Z,多边兽Ｚ,多邊獸Ｚ
+497,475,エルレイド,Gallade,Gallame,Gallade,Galagladi,Gallade,엘레이드,艾路雷朵,艾路雷朵
+498,476,ダイノーズ,Probopass,Tarinorme,Probopass,Voluminas,Probopass,대코파스,大朝北鼻,大朝北鼻
+499,477,ヨノワール,Dusknoir,Noctunoir,Dusknoir,Zwirrfinst,Dusknoir,야느와르몽,黑夜魔灵,黑夜魔靈
+500,478,ユキメノコ,Froslass,Momartik,Froslass,Frosdedje,Froslass,눈여아,雪妖女,雪妖女
+501,479,ロトム,Rotom,Motisma,Rotom,Rotom,Rotom,로토무,洛托姆,洛托姆
+502,479,ロトム(ヒートロトム),Rotom(Heat Rotom),Motisma(Motisma Chaleur),Rotom(Rotom Calore),Rotom(Hitze-Rotom),Rotom(Rotom Calor),로토무(히트로토무),洛托姆(加热洛托姆),洛托姆(加熱洛托姆)
+503,479,ロトム(ウォッシュロトム),Rotom(Wash Rotom),Motisma(Motisma Lavage),Rotom(Rotom Lavaggio),Rotom(Wasch-Rotom),Rotom(Rotom Lavado),로토무(워시로토무),洛托姆(清洗洛托姆),洛托姆(清洗洛托姆)
+504,479,ロトム(フロストロトム),Rotom(Frost Rotom),Motisma(Motisma Froid),Rotom(Rotom Gelo),Rotom(Frost-Rotom),Rotom(Rotom Frío),로토무(프로스트로토무),洛托姆(结冰洛托姆),洛托姆(結冰洛托姆)
+505,479,ロトム(スピンロトム),Rotom(Fan Rotom),Motisma(Motisma Hélice),Rotom(Rotom Vortice),Rotom(Wirbel-Rotom),Rotom(Rotom Ventilador),로토무(스핀로토무),洛托姆(旋转洛托姆),洛托姆(旋轉洛托姆)
+506,479,ロトム(カットロトム),Rotom(Mow Rotom),Motisma(Motisma Tonte),Rotom(Rotom Taglio),Rotom(Schneid-Rotom),Rotom(Rotom Corte),로토무(커트로토무),洛托姆(切割洛托姆),洛托姆(切割洛托姆)
+507,480,ユクシー,Uxie,Créhelf,Uxie,Selfe,Uxie,유크시,由克希,由克希
+508,481,エムリット,Mesprit,Créfollet,Mesprit,Vesprit,Mesprit,엠라이트,艾姆利多,艾姆利多
+509,482,アグノム,Azelf,Créfadet,Azelf,Tobutz,Azelf,아그놈,亚克诺姆,亞克諾姆
+510,483,ディアルガ,Dialga,Dialga,Dialga,Dialga,Dialga,디아루가,帝牙卢卡,帝牙盧卡
+511,484,パルキア,Palkia,Palkia,Palkia,Palkia,Palkia,펄기아,帕路奇亚,帕路奇亞
+512,485,ヒードラン,Heatran,Heatran,Heatran,Heatran,Heatran,히드런,席多蓝恩,席多藍恩
+513,486,レジギガス,Regigigas,Regigigas,Regigigas,Regigigas,Regigigas,레지기가스,雷吉奇卡斯,雷吉奇卡斯
+514,487,ギラティナ(アナザーフォルム),Giratina(Altered Forme),Giratina(Forme Alternative),Giratina(Forma Alterata),Giratina(Wandelform),Giratina(Forma Modificada),기라티나(어나더폼),骑拉帝纳(别种形态),騎拉帝納(別種形態)
+515,487,ギラティナ(オリジンフォルム),Giratina(Origin Forme),Giratina(Forme Originelle),Giratina(Forma Originale),Giratina(Urform),Giratina(Forma Origen),기라티나(오리진폼),骑拉帝纳(起源形态),騎拉帝納(起源形態)
+516,488,クレセリア,Cresselia,Cresselia,Cresselia,Cresselia,Cresselia,크레세리아,克雷色利亚,克雷色利亞
+517,489,フィオネ,Phione,Phione,Phione,Phione,Phione,피오네,霏欧纳,霏歐納
+518,490,マナフィ,Manaphy,Manaphy,Manaphy,Manaphy,Manaphy,마나피,玛纳霏,瑪納霏
+519,491,ダークライ,Darkrai,Darkrai,Darkrai,Darkrai,Darkrai,다크라이,达克莱伊,達克萊伊
+520,492,シェイミ(ランドフォルム),Shaymin(Land Forme),Shaymin(Forme Terrestre),Shaymin(Forma Terra),Shaymin(Landform),Shaymin(Forma Tierra),쉐이미(랜드폼),谢米(陆上形态),謝米(陸上形態)
+521,492,シェイミ(スカイフォルム),Shaymin(Sky Forme),Shaymin(Forme Céleste),Shaymin(Forma Cielo),Shaymin(Zenitform),Shaymin(Forma Cielo),쉐이미(스카이폼),谢米(天空形态),謝米(天空形態)
+522,493,アルセウス(ノーマルタイプ),Arceus(Normal Type),Arceus(Type Normal),Arceus(Tipo Normale),Arceus(Typ Normal),Arceus(Tipo Normal),아르세우스(노말타입),阿尔宙斯(一般属性),阿爾宙斯(一般屬性)
+523,493,アルセウス(かくとうタイプ),Arceus(Fighting Type),Arceus(Type Combat),Arceus(Tipo Lotta),Arceus(Typ Kampf),Arceus(Tipo Lucha),아르세우스(격투타입),阿尔宙斯(格斗属性),阿爾宙斯(格鬥屬性)
+524,493,アルセウス(みずタイプ),Arceus(Water Type),Arceus(Type Eau),Arceus(Tipo Acqua),Arceus(Typ Wasser),Arceus(Tipo Agua),아르세우스(물타입),阿尔宙斯(水属性),阿爾宙斯(水屬性)
+525,493,アルセウス(くさタイプ),Arceus(Grass Type),Arceus(Type Plante),Arceus(Tipo Erba),Arceus(Typ Pflanze),Arceus(Tipo Planta),아르세우스(풀타입),阿尔宙斯(草属性),阿爾宙斯(草屬性)
+526,493,アルセウス(でんきタイプ),Arceus(Electric Type),Arceus(Type Électrik),Arceus(Tipo Elettro),Arceus(Typ Elektro),Arceus(Tipo Eléctrico),아르세우스(전기타입),阿尔宙斯(电属性),阿爾宙斯(電屬性)
+527,493,アルセウス(エスパータイプ),Arceus(Psychic Type),Arceus(Type Psy),Arceus(Tipo Psico),Arceus(Typ Psycho),Arceus(Tipo Psíquico),아르세우스(에스퍼타입),阿尔宙斯(超能力属性),阿爾宙斯(超能力屬性)
+528,493,アルセウス(こおりタイプ),Arceus(Ice Type),Arceus(Type Glace),Arceus(Tipo Ghiaccio),Arceus(Typ Eis),Arceus(Tipo Hielo),아르세우스(얼음타입),阿尔宙斯(冰属性),阿爾宙斯(冰屬性)
+529,493,アルセウス(ドラゴンタイプ),Arceus(Dragon Type),Arceus(Type Dragon),Arceus(Tipo Drago),Arceus(Typ Drache),Arceus(Tipo Dragón),아르세우스(드래곤타입),阿尔宙斯(龙属性),阿爾宙斯(龍屬性)
+530,493,アルセウス(あくタイプ),Arceus(Dark Type),Arceus(Type Ténèbres),Arceus(Tipo Buio),Arceus(Typ Unlicht),Arceus(Tipo Siniestro),아르세우스(악타입),阿尔宙斯(恶属性),阿爾宙斯(惡屬性)
+531,493,アルセウス(フェアリータイプ),Arceus(Fairy Type),Arceus(Type Fée),Arceus(Tipo Folletto),Arceus(Typ Fee),Arceus(Tipo Hada),아르세우스(페어리타입),阿尔宙斯(妖精属性),阿爾宙斯(妖精屬性)
+532,493,アルセウス(ひこうタイプ),Arceus(Flying Type),Arceus(Type Vol),Arceus(Tipo Volante),Arceus(Typ Flug),Arceus(Tipo Volador),아르세우스(비행타입),阿尔宙斯(飞行属性),阿爾宙斯(飛行屬性)
+533,493,アルセウス(どくタイプ),Arceus(Poison Type),Arceus(Type Poison),Arceus(Tipo Veleno),Arceus(Typ Gift),Arceus(Tipo Veneno),아르세우스(독타입),阿尔宙斯(毒属性),阿爾宙斯(毒屬性)
+534,493,アルセウス(じめんタイプ),Arceus(Ground Type),Arceus(Type Sol),Arceus(Tipo Terra),Arceus(Typ Boden),Arceus(Tipo Tierra),아르세우스(땅타입),阿尔宙斯(地面属性),阿爾宙斯(地面屬性)
+535,493,アルセウス(いわタイプ),Arceus(Rock Type),Arceus(Type Roche),Arceus(Tipo Roccia),Arceus(Typ Gestein),Arceus(Tipo Roca),아르세우스(바위타입),阿尔宙斯(岩石属性),阿爾宙斯(岩石屬性)
+536,493,アルセウス(むしタイプ),Arceus(Bug Type),Arceus(Type Insecte),Arceus(Tipo Coleottero),Arceus(Typ Käfer),Arceus(Tipo Bicho),아르세우스(벌레타입),阿尔宙斯(虫属性),阿爾宙斯(蟲屬性)
+537,493,アルセウス(ゴーストタイプ),Arceus(Ghost Type),Arceus(Type Spectre),Arceus(Tipo Spettro),Arceus(Typ Geist),Arceus(Tipo Fantasma),아르세우스(고스트타입),阿尔宙斯(幽灵属性),阿爾宙斯(幽靈屬性)
+538,493,アルセウス(はがねタイプ),Arceus(Steel Type),Arceus(Type Acier),Arceus(Tipo Acciaio),Arceus(Typ Stahl),Arceus(Tipo Acero),아르세우스(강철타입),阿尔宙斯(钢属性),阿爾宙斯(鋼屬性)
+539,493,アルセウス(ほのおタイプ),Arceus(Fire Type),Arceus(Type Feu),Arceus(Tipo Fuoco),Arceus(Typ Feuer),Arceus(Tipo Fuego),아르세우스(불꽃타입),阿尔宙斯(火属性),阿爾宙斯(火屬性)
+540,494,ビクティニ,Victini,Victini,Victini,Victini,Victini,비크티니,比克提尼,比克提尼
+541,495,ツタージャ,Snivy,Vipélierre,Snivy,Serpifeu,Snivy,주리비얀,藤藤蛇,藤藤蛇
+542,496,ジャノビー,Servine,Lianaja,Servine,Efoserp,Servine,샤비,青藤蛇,青藤蛇
+543,497,ジャローダ,Serperior,Majaspic,Serperior,Serpiroyal,Serperior,샤로다,君主蛇,君主蛇
+544,498,ポカブ,Tepig,Gruikui,Tepig,Floink,Tepig,뚜꾸리,暖暖猪,暖暖豬
+545,499,チャオブー,Pignite,Grotichon,Pignite,Ferkokel,Pignite,차오꿀,炒炒猪,炒炒豬
+546,500,エンブオー,Emboar,Roitiflam,Emboar,Flambirex,Emboar,염무왕,炎武王,炎武王
+547,501,ミジュマル,Oshawott,Moustillon,Oshawott,Ottaro,Oshawott,수댕이,水水獭,水水獺
+548,502,フタチマル,Dewott,Mateloutre,Dewott,Zwottronin,Dewott,쌍검자비,双刃丸,雙刃丸
+549,503,ダイケンキ,Samurott,Clamiral,Samurott,Admurai,Samurott,대검귀,大剑鬼,大劍鬼
+550,504,ミネズミ,Patrat,Ratentif,Patrat,Nagelotz,Patrat,보르쥐,探探鼠,探探鼠
+551,505,ミルホッグ,Watchog,Miradar,Watchog,Kukmarda,Watchog,보르그,步哨鼠,步哨鼠
+552,506,ヨーテリー,Lillipup,Ponchiot,Lillipup,Yorkleff,Lillipup,요테리,小约克,小約克
+553,507,ハーデリア,Herdier,Ponchien,Herdier,Terribark,Herdier,하데리어,哈约克,哈約克
+554,508,ムーランド,Stoutland,Mastouffe,Stoutland,Bissbark,Stoutland,바랜드,长毛狗,長毛狗
+555,509,チョロネコ,Purrloin,Chacripan,Purrloin,Felilou,Purrloin,쌔비냥,扒手猫,扒手貓
+556,510,レパルダス,Liepard,Léopardus,Liepard,Kleoparda,Liepard,레파르다스,酷豹,酷豹
+557,511,ヤナップ,Pansage,Feuillajou,Pansage,Vegimak,Pansage,야나프,花椰猴,花椰猴
+558,512,ヤナッキー,Simisage,Feuiloutan,Simisage,Vegichita,Simisage,야나키,花椰猿,花椰猿
+559,513,バオップ,Pansear,Flamajou,Pansear,Grillmak,Pansear,바오프,爆香猴,爆香猴
+560,514,バオッキー,Simisear,Flamoutan,Simisear,Grillchita,Simisear,바오키,爆香猿,爆香猿
+561,515,ヒヤップ,Panpour,Flotajou,Panpour,Sodamak,Panpour,앗차프,冷水猴,冷水猴
+562,516,ヒヤッキー,Simipour,Flotoutan,Simipour,Sodachita,Simipour,앗차키,冷水猿,冷水猿
+563,517,ムンナ,Munna,Munna,Munna,Somniam,Munna,몽나,食梦梦,食夢夢
+564,518,ムシャーナ,Musharna,Mushana,Musharna,Somnivora,Musharna,몽얌나,梦梦蚀,夢夢蝕
+565,519,マメパト,Pidove,Poichigeon,Pidove,Dusselgurr,Pidove,콩둘기,豆豆鸽,豆豆鴿
+566,520,ハトーボー,Tranquill,Colombeau,Tranquill,Navitaub,Tranquill,유토브,咕咕鸽,咕咕鴿
+567,521,ケンホロウ,Unfezant,Déflaisan,Unfezant,Fasasnob,Unfezant,켄호로우,高傲雉鸡,高傲雉雞
+568,522,シママ,Blitzle,Zébibron,Blitzle,Elezeba,Blitzle,줄뮤마,斑斑马,斑斑馬
+569,523,ゼブライカ,Zebstrika,Zéblitz,Zebstrika,Zebritz,Zebstrika,제브라이카,雷电斑马,雷電斑馬
+570,524,ダンゴロ,Roggenrola,Nodulithe,Roggenrola,Kiesling,Roggenrola,단굴,石丸子,石丸子
+571,525,ガントル,Boldore,Géolithe,Boldore,Sedimantur,Boldore,암트르,地幔岩,地幔岩
+572,526,ギガイアス,Gigalith,Gigalithe,Gigalith,Brockoloss,Gigalith,기가이어스,庞岩怪,龐岩怪
+573,527,コロモリ,Woobat,Chovsourir,Woobat,Fleknoil,Woobat,또르박쥐,滚滚蝙蝠,滾滾蝙蝠
+574,528,ココロモリ,Swoobat,Rhinolove,Swoobat,Fletiamo,Swoobat,맘박쥐,心蝙蝠,心蝙蝠
+575,529,モグリュー,Drilbur,Rototaupe,Drilbur,Rotomurf,Drilbur,두더류,螺钉地鼠,螺釘地鼠
+576,530,ドリュウズ,Excadrill,Minotaupe,Excadrill,Stalobor,Excadrill,몰드류,龙头地鼠,龍頭地鼠
+577,531,タブンネ,Audino,Nanméouïe,Audino,Ohrdoch,Audino,다부니,差不多娃娃,差不多娃娃
+578,532,ドッコラー,Timburr,Charpenti,Timburr,Praktibalk,Timburr,으랏차,搬运小匠,搬運小匠
+579,533,ドテッコツ,Gurdurr,Ouvrifier,Gurdurr,Strepoli,Gurdurr,토쇠골,铁骨土人,鐵骨土人
+580,534,ローブシン,Conkeldurr,Bétochef,Conkeldurr,Meistagrif,Conkeldurr,노보청,修建老匠,修建老匠
+581,535,オタマロ,Tympole,Tritonde,Tympole,Schallquap,Tympole,동챙이,圆蝌蚪,圓蝌蚪
+582,536,ガマガル,Palpitoad,Batracné,Palpitoad,Mebrana,Palpitoad,두까비,蓝蟾蜍,藍蟾蜍
+583,537,ガマゲロゲ,Seismitoad,Crapustule,Seismitoad,Branawarz,Seismitoad,두빅굴,蟾蜍王,蟾蜍王
+584,538,ナゲキ,Throh,Judokrak,Throh,Jiutesto,Throh,던지미,投摔鬼,投摔鬼
+585,539,ダゲキ,Sawk,Karaclée,Sawk,Karadonis,Sawk,타격귀,打击鬼,打擊鬼
+586,540,クルミル,Sewaddle,Larveyette,Sewaddle,Strawickl,Sewaddle,두르보,虫宝包,蟲寶包
+587,541,クルマユ,Swadloon,Couverdure,Swadloon,Folikon,Swadloon,두르쿤,宝包茧,寶包繭
+588,542,ハハコモリ,Leavanny,Manternel,Leavanny,Matrifol,Leavanny,모아머,保姆虫,保母蟲
+589,543,フシデ,Venipede,Venipatte,Venipede,Toxiped,Venipede,마디네,百足蜈蚣,百足蜈蚣
+590,544,ホイーガ,Whirlipede,Scobolide,Whirlipede,Rollum,Whirlipede,휠구,车轮球,車輪毬
+591,545,ペンドラー,Scolipede,Brutapode,Scolipede,Cerapendra,Scolipede,펜드라,蜈蚣王,蜈蚣王
+592,546,モンメン,Cottonee,Doudouvet,Cottonee,Waumboll,Cottonee,소미안,木棉球,木棉球
+593,547,エルフーン,Whimsicott,Farfaduvet,Whimsicott,Elfun,Whimsicott,엘풍,风妖精,風妖精
+594,548,チュリネ,Petilil,Chlorobule,Petilil,Lilminip,Petilil,치릴리,百合根娃娃,百合根娃娃
+595,549,ドレディア,Lilligant,Fragilady,Lilligant,Dressella,Lilligant,드레디어,裙儿小姐,裙兒小姐
+596,550,バスラオ(あかすじのすがた),Basculin(Red-Striped Form),Bargantua(Motif Rouge),Basculin(Forma Linearossa),Barschuft(Rotlinige Form),Basculin(Forma Raya Roja),배쓰나이(적색근의 모습),野蛮鲈鱼(红条纹的样子),野蠻鱸魚(紅條紋的樣子)
+597,550,バスラオ(あおすじのすがた),Basculin(Blue-Striped Form),Bargantua(Motif Bleu),Basculin(Forma Lineablu),Barschuft(Blaulinige Form),Basculin(Forma Raya Azul),배쓰나이(청색근의 모습),野蛮鲈鱼(蓝条纹的样子),野蠻鱸魚(藍條紋的樣子)
+598,551,メグロコ,Sandile,Mascaïman,Sandile,Ganovil,Sandile,깜눈크,黑眼鳄,黑眼鱷
+599,552,ワルビル,Krokorok,Escroco,Krokorok,Rokkaiman,Krokorok,악비르,混混鳄,混混鱷
+600,553,ワルビアル,Krookodile,Crocorible,Krookodile,Rabigator,Krookodile,악비아르,流氓鳄,流氓鱷
+601,554,ダルマッカ,Darumaka,Darumarond,Darumaka,Flampion,Darumaka,달막화,火红不倒翁,火紅不倒翁
+602,555,ヒヒダルマ,Darmanitan,Darumacho,Darmanitan,Flampivian,Darmanitan,불비달마,达摩狒狒,達摩狒狒
+603,556,マラカッチ,Maractus,Maracachi,Maractus,Maracamba,Maractus,마라카치,沙铃仙人掌,沙鈴仙人掌
+604,557,イシズマイ,Dwebble,Crabicoque,Dwebble,Lithomith,Dwebble,돌살이,石居蟹,石居蟹
+605,558,イワパレス,Crustle,Crabaraque,Crustle,Castellith,Crustle,암팰리스,岩殿居蟹,岩殿居蟹
+606,559,ズルッグ,Scraggy,Baggiguane,Scraggy,Zurrokex,Scraggy,곤율랭,滑滑小子,滑滑小子
+607,560,ズルズキン,Scrafty,Baggaïd,Scrafty,Irokex,Scrafty,곤율거니,头巾混混,頭巾混混
+608,561,シンボラー,Sigilyph,Cryptéro,Sigilyph,Symvolara,Sigilyph,심보러,象征鸟,象徵鳥
+609,562,デスマス,Yamask,Tutafeh,Yamask,Makabaja,Yamask,데스마스,哭哭面具,哭哭面具
+610,563,デスカーン,Cofagrigus,Tutankafer,Cofagrigus,Echnatoll,Cofagrigus,데스니칸,死神棺,死神棺
+611,564,プロトーガ,Tirtouga,Carapagos,Tirtouga,Galapaflos,Tirtouga,프로토가,原盖海龟,原蓋海龜
+612,565,アバゴーラ,Carracosta,Mégapagos,Carracosta,Karippas,Carracosta,늑골라,肋骨海龟,肋骨海龜
+613,566,アーケン,Archen,Arkéapti,Archen,Flapteryx,Archen,아켄,始祖小鸟,始祖小鳥
+614,567,アーケオス,Archeops,Aéroptéryx,Archeops,Aeropteryx,Archeops,아케오스,始祖大鸟,始祖大鳥
+615,568,ヤブクロン,Trubbish,Miamiasme,Trubbish,Unratütox,Trubbish,깨봉이,破破袋,破破袋
+616,569,ダストダス,Garbodor,Miasmax,Garbodor,Deponitox,Garbodor,더스트나,灰尘山,灰塵山
+617,570,ゾロア,Zorua,Zorua,Zorua,Zorua,Zorua,조로아,索罗亚,索羅亞
+618,571,ゾロアーク,Zoroark,Zoroark,Zoroark,Zoroark,Zoroark,조로아크,索罗亚克,索羅亞克
+619,572,チラーミィ,Minccino,Chinchidou,Minccino,Picochilla,Minccino,치라미,泡沫栗鼠,泡沫栗鼠
+620,573,チラチーノ,Cinccino,Pashmilla,Cinccino,Chillabell,Cinccino,치라치노,奇诺栗鼠,奇諾栗鼠
+621,574,ゴチム,Gothita,Scrutella,Gothita,Mollimorba,Gothita,고디탱,哥德宝宝,哥德寶寶
+622,575,ゴチミル,Gothorita,Mesmérella,Gothorita,Hypnomorba,Gothorita,고디보미,哥德小童,哥德小童
+623,576,ゴチルゼル,Gothitelle,Sidérella,Gothitelle,Morbitesse,Gothitelle,고디모아젤,哥德小姐,哥德小姐
+624,577,ユニラン,Solosis,Nucléos,Solosis,Monozyto,Solosis,유니란,单卵细胞球,單卵細胞球
+625,578,ダブラン,Duosion,Méios,Duosion,Mitodos,Duosion,듀란,双卵细胞球,雙卵細胞球
+626,579,ランクルス,Reuniclus,Symbios,Reuniclus,Zytomega,Reuniclus,란쿨루스,人造细胞卵,人造細胞卵
+627,580,コアルヒー,Ducklett,Couaneton,Ducklett,Piccolente,Ducklett,꼬지보리,鸭宝宝,鴨寶寶
+628,581,スワンナ,Swanna,Lakmécygne,Swanna,Swaroness,Swanna,스완나,舞天鹅,舞天鵝
+629,582,バニプッチ,Vanillite,Sorbébé,Vanillite,Gelatini,Vanillite,바닐프티,迷你冰,迷你冰
+630,583,バニリッチ,Vanillish,Sorboul,Vanillish,Gelatroppo,Vanillish,바닐리치,多多冰,多多冰
+631,584,バイバニラ,Vanilluxe,Sorbouboul,Vanilluxe,Gelatwino,Vanilluxe,배바닐라,双倍多多冰,雙倍多多冰
+632,585,シキジカ,Deerling,Vivaldaim,Deerling,Sesokitz,Deerling,사철록,四季鹿,四季鹿
+633,586,メブキジカ,Sawsbuck,Haydaim,Sawsbuck,Kronjuwild,Sawsbuck,바라철록,萌芽鹿,萌芽鹿
+634,587,エモンガ,Emolga,Emolga,Emolga,Emolga,Emolga,에몽가,电飞鼠,電飛鼠
+635,588,カブルモ,Karrablast,Carabing,Karrablast,Laukaps,Karrablast,딱정곤,盖盖虫,蓋蓋蟲
+636,589,シュバルゴ,Escavalier,Lançargot,Escavalier,Cavalanzas,Escavalier,슈바르고,骑士蜗牛,騎士蝸牛
+637,590,タマゲタケ,Foongus,Trompignon,Foongus,Tarnpignon,Foongus,깜놀버슬,哎呀球菇,哎呀球菇
+638,591,モロバレル,Amoonguss,Gaulet,Amoonguss,Hutsassa,Amoonguss,뽀록나,败露球菇,敗露球菇
+639,592,プルリル,Frillish,Viskuse,Frillish,Quabbel,Frillish,탱그릴,轻飘飘,輕飄飄
+640,593,ブルンゲル,Jellicent,Moyade,Jellicent,Apoquallyp,Jellicent,탱탱겔,胖嘟嘟,胖嘟嘟
+641,594,ママンボウ,Alomomola,Mamanbo,Alomomola,Mamolida,Alomomola,맘복치,保姆曼波,保母曼波
+642,595,バチュル,Joltik,Statitik,Joltik,Wattzapf,Joltik,파쪼옥,电电虫,電電蟲
+643,596,デンチュラ,Galvantula,Mygavolt,Galvantula,Voltula,Galvantula,전툴라,电蜘蛛,電蜘蛛
+644,597,テッシード,Ferroseed,Grindur,Ferroseed,Kastadur,Ferroseed,철시드,种子铁球,種子鐵球
+645,598,ナットレイ,Ferrothorn,Noacier,Ferrothorn,Tentantel,Ferrothorn,너트령,坚果哑铃,堅果啞鈴
+646,599,ギアル,Klink,Tic,Klink,Klikk,Klink,기어르,齿轮儿,齒輪兒
+647,600,ギギアル,Klang,Clic,Klang,Kliklak,Klang,기기어르,齿轮组,齒輪組
+648,601,ギギギアル,Klinklang,Cliticlic,Klinklang,Klikdiklak,Klinklang,기기기어르,齿轮怪,齒輪怪
+649,602,シビシラス,Tynamo,Anchwatt,Tynamo,Zapplardin,Tynamo,저리어,麻麻小鱼,麻麻小魚
+650,603,シビビール,Eelektrik,Lampéroie,Eelektrik,Zapplalek,Eelektrik,저리릴,麻麻鳗,麻麻鰻
+651,604,シビルドン,Eelektross,Ohmassacre,Eelektross,Zapplarang,Eelektross,저리더프,麻麻鳗鱼王,麻麻鰻魚王
+652,605,リグレー,Elgyem,Lewsor,Elgyem,Pygraulon,Elgyem,리그레,小灰怪,小灰怪
+653,606,オーベム,Beheeyem,Neitram,Beheeyem,Megalon,Beheeyem,벰크,大宇怪,大宇怪
+654,607,ヒトモシ,Litwick,Funécire,Litwick,Lichtel,Litwick,불켜미,烛光灵,燭光靈
+655,608,ランプラー,Lampent,Mélancolux,Lampent,Laternecto,Lampent,램프라,灯火幽灵,燈火幽靈
+656,609,シャンデラ,Chandelure,Lugulabre,Chandelure,Skelabra,Chandelure,샹델라,水晶灯火灵,水晶燈火靈
+657,610,キバゴ,Axew,Coupenotte,Axew,Milza,Axew,터검니,牙牙,牙牙
+658,611,オノンド,Fraxure,Incisache,Fraxure,Sharfax,Fraxure,액슨도,斧牙龙,斧牙龍
+659,612,オノノクス,Haxorus,Tranchodon,Haxorus,Maxax,Haxorus,액스라이즈,双斧战龙,雙斧戰龍
+660,613,クマシュン,Cubchoo,Polarhume,Cubchoo,Petznief,Cubchoo,코고미,喷嚏熊,噴嚏熊
+661,614,ツンベアー,Beartic,Polagriffe,Beartic,Siberio,Beartic,툰베어,冻原熊,凍原熊
+662,615,フリージオ,Cryogonal,Hexagel,Cryogonal,Frigometri,Cryogonal,프리지오,几何雪花,幾何雪花
+663,616,チョボマキ,Shelmet,Escargaume,Shelmet,Schnuthelm,Shelmet,쪼마리,小嘴蜗,小嘴蝸
+664,617,アギルダー,Accelgor,Limaspeed,Accelgor,Hydragil,Accelgor,어지리더,敏捷虫,敏捷蟲
+665,618,マッギョ,Stunfisk,Limonde,Stunfisk,Flunschlik,Stunfisk,메더,泥巴鱼,泥巴魚
+666,619,コジョフー,Mienfoo,Kungfouine,Mienfoo,Lin-Fu,Mienfoo,비조푸,功夫鼬,功夫鼬
+667,620,コジョンド,Mienshao,Shaofouine,Mienshao,Wie-Shu,Mienshao,비조도,师父鼬,師父鼬
+668,621,クリムガン,Druddigon,Drakkarmin,Druddigon,Shardrago,Druddigon,크리만,赤面龙,赤面龍
+669,622,ゴビット,Golett,Gringolem,Golett,Golbit,Golett,골비람,泥偶小人,泥偶小人
+670,623,ゴルーグ,Golurk,Golemastoc,Golurk,Golgantes,Golurk,골루그,泥偶巨人,泥偶巨人
+671,624,コマタナ,Pawniard,Scalpion,Pawniard,Gladiantri,Pawniard,자망칼,驹刀小兵,駒刀小兵
+672,625,キリキザン,Bisharp,Scalproie,Bisharp,Caesurio,Bisharp,절각참,劈斩司令,劈斬司令
+673,626,バッフロン,Bouffalant,Frison,Bouffalant,Bisofank,Bouffalant,버프론,爆炸头水牛,爆炸頭水牛
+674,627,ワシボン,Rufflet,Furaiglon,Rufflet,Geronimatz,Rufflet,수리둥보,毛头小鹰,毛頭小鷹
+675,628,ウォーグル,Braviary,Gueriaigle,Braviary,Washakwil,Braviary,워글,勇士雄鹰,勇士雄鷹
+676,629,バルチャイ,Vullaby,Vostourno,Vullaby,Skallyk,Vullaby,벌차이,秃鹰丫头,禿鷹丫頭
+677,630,バルジーナ,Mandibuzz,Vaututrice,Mandibuzz,Grypheldis,Mandibuzz,버랜지나,秃鹰娜,禿鷹娜
+678,631,クイタラン,Heatmor,Aflamanoir,Heatmor,Furnifraß,Heatmor,앤티골,熔蚁兽,熔蟻獸
+679,632,アイアント,Durant,Fermite,Durant,Fermicula,Durant,아이앤트,铁蚁,鐵蟻
+680,633,モノズ,Deino,Solochi,Deino,Kapuno,Deino,모노두,单首龙,單首龍
+681,634,ジヘッド,Zweilous,Diamat,Zweilous,Duodino,Zweilous,디헤드,双首暴龙,雙首暴龍
+682,635,サザンドラ,Hydreigon,Trioxhydre,Hydreigon,Trikephalo,Hydreigon,삼삼드래,三首恶龙,三首惡龍
+683,636,メラルバ,Larvesta,Pyronille,Larvesta,Ignivor,Larvesta,활화르바,燃烧虫,燃燒蟲
+684,637,ウルガモス,Volcarona,Pyrax,Volcarona,Ramoth,Volcarona,불카모스,火神蛾,火神蛾
+685,638,コバルオン,Cobalion,Cobaltium,Cobalion,Kobalium,Cobalion,코바르온,勾帕路翁,勾帕路翁
+686,639,テラキオン,Terrakion,Terrakium,Terrakion,Terrakium,Terrakion,테라키온,代拉基翁,代拉基翁
+687,640,ビリジオン,Virizion,Viridium,Virizion,Viridium,Virizion,비리디온,毕力吉翁,畢力吉翁
+688,641,トルネロス(けしんフォルム),Tornadus(Incarnate Forme),Boréas(Forme Avatar),Tornadus(Forma Incarnazione),Boreos(Inkarnationsform),Tornadus(Forma Avatar),토네로스(화신폼),龙卷云(化身形态),龍捲雲(化身形態)
+689,641,トルネロス(れいじゅうフォルム),Tornadus(Therian Forme),Boréas(Forme Totémique),Tornadus(Forma Totem),Boreos(Tiergeistform),Tornadus(Forma Tótem),토네로스(영물폼),龙卷云(灵兽形态),龍捲雲(靈獸形態)
+690,642,ボルトロス(けしんフォルム),Thundurus(Incarnate Forme),Fulguris(Forme Avatar),Thundurus(Forma Incarnazione),Voltolos(Inkarnationsform),Thundurus(Forma Avatar),볼트로스(화신폼),雷电云(化身形态),雷電雲(化身形態)
+691,642,ボルトロス(れいじゅうフォルム),Thundurus(Therian Forme),Fulguris(Forme Totémique),Thundurus(Forma Totem),Voltolos(Tiergeistform),Thundurus(Forma Tótem),볼트로스(영물폼),雷电云(灵兽形态),雷電雲(靈獸形態)
+692,643,レシラム,Reshiram,Reshiram,Reshiram,Reshiram,Reshiram,레시라무,莱希拉姆,萊希拉姆
+693,644,ゼクロム,Zekrom,Zekrom,Zekrom,Zekrom,Zekrom,제크로무,捷克罗姆,捷克羅姆
+694,645,ランドロス(けしんフォルム),Landorus(Incarnate Forme),Démétéros(Forme Avatar),Landorus(Forma Incarnazione),Demeteros(Inkarnationsform),Landorus(Forma Avatar),랜드로스(화신폼),土地云(化身形态),土地雲(化身形態)
+695,645,ランドロス(れいじゅうフォルム),Landorus(Therian Forme),Démétéros(Forme Totémique),Landorus(Forma Totem),Demeteros(Tiergeistform),Landorus(Forma Tótem),랜드로스(영물폼),土地云(灵兽形态),土地雲(靈獸形態)
+696,646,キュレム,Kyurem,Kyurem,Kyurem,Kyurem,Kyurem,큐레무,酋雷姆,酋雷姆
+697,646,キュレム(ホワイトキュレム),Kyurem(White Kyurem),Kyurem(Kyurem Blanc),Kyurem(Kyurem Bianco),Kyurem(Weißes Kyurem),Kyurem(Kyurem Blanco),큐레무(화이트큐레무),酋雷姆(焰白酋雷姆),酋雷姆(焰白酋雷姆)
+698,646,キュレム(ブラックキュレム),Kyurem(Black Kyurem),Kyurem(Kyurem Noir),Kyurem(Kyurem Nero),Kyurem(Schwarzes Kyurem),Kyurem(Kyurem Negro),큐레무(블랙큐레무),酋雷姆(暗黑酋雷姆),酋雷姆(闇黑酋雷姆)
+699,647,ケルディオ,Keldeo,Keldeo,Keldeo,Keldeo,Keldeo,케르디오,凯路迪欧,凱路迪歐
+700,648,メロエッタ,Meloetta,Meloetta,Meloetta,Meloetta,Meloetta,메로엣타,美洛耶塔,美洛耶塔
+701,649,ゲノセクト,Genesect,Genesect,Genesect,Genesect,Genesect,게노세크트,盖诺赛克特,蓋諾賽克特
+702,649,ゲノセクト(アクアカセット),Genesect(Douse Drive),Genesect(Module Aqua),Genesect(Idromodulo),Genesect(Aquamodul),Genesect(HidroROM),게노세크트(아쿠아카세트),盖诺赛克特(水流卡带),蓋諾賽克特(水流卡帶)
+703,649,ゲノセクト(イナズマカセット),Genesect(Shock Drive),Genesect(Module Choc),Genesect(Voltmodulo),Genesect(Blitzmodul),Genesect(FulgoROM),게노세크트(번개카세트),盖诺赛克特(闪电卡带),蓋諾賽克特(閃電卡帶)
+704,649,ゲノセクト(フリーズカセット),Genesect(Chill Drive),Genesect(Module Cryo),Genesect(Gelomodulo),Genesect(Gefriermodul),Genesect(CrioROM),게노세크트(프리즈카세트),盖诺赛克特(火焰卡带),蓋諾賽克特(火焰卡帶)
+705,649,ゲノセクト(ブレイズカセット),Genesect(Burn Drive),Genesect(Module Pyro),Genesect(Piromodulo),Genesect(Flammenmodul),Genesect(PiroROM),게노세크트(블레이즈카세트),盖诺赛克特(冰冻卡带),蓋諾賽克特(冰凍卡帶)
+706,650,ハリマロン,Chespin,Marisson,Chespin,Igamaro,Chespin,도치마론,哈力栗,哈力栗
+707,651,ハリボーグ,Quilladin,Boguérisse,Quilladin,Igastarnish,Quilladin,도치보구,胖胖哈力,胖胖哈力
+708,652,ブリガロン,Chesnaught,Blindépique,Chesnaught,Brigaron,Chesnaught,브리가론,布里卡隆,布里卡隆
+709,653,フォッコ,Fennekin,Feunnec,Fennekin,Fynx,Fennekin,푸호꼬,火狐狸,火狐狸
+710,654,テールナー,Braixen,Roussil,Braixen,Rutena,Braixen,테르나,长尾火狐,長尾火狐
+711,655,マフォクシー,Delphox,Goupelin,Delphox,Fennexis,Delphox,마폭시,妖火红狐,妖火紅狐
+712,656,ケロマツ,Froakie,Grenousse,Froakie,Froxy,Froakie,개구마르,呱呱泡蛙,呱呱泡蛙
+713,657,ゲコガシラ,Frogadier,Croâporal,Frogadier,Amphizel,Frogadier,개굴반장,呱头蛙,呱頭蛙
+714,658,ゲッコウガ,Greninja,Amphinobi,Greninja,Quajutsu,Greninja,개굴닌자,甲贺忍蛙,甲賀忍蛙
+715,658,ゲッコウガ(サトシゲッコウガ),Greninja(Ash-Greninja),Amphinobi(Forme Sacha),Greninja(Forma Ash),Quajutsu(Ash-Form),Greninja(Forma Ash),개굴닌자(지우개굴닌자),甲贺忍蛙(小智版甲贺忍蛙),甲賀忍蛙(小智版甲賀忍蛙)
+716,659,ホルビー,Bunnelby,Sapereau,Bunnelby,Scoppel,Bunnelby,파르빗,掘掘兔,掘掘兔
+717,660,ホルード,Diggersby,Excavarenne,Diggersby,Grebbit,Diggersby,파르토,掘地兔,掘地兔
+718,661,ヤヤコマ,Fletchling,Passerouge,Fletchling,Dartiri,Fletchling,화살꼬빈,小箭雀,小箭雀
+719,662,ヒノヤコマ,Fletchinder,Braisillon,Fletchinder,Dartignis,Fletchinder,불화살빈,火箭雀,火箭雀
+720,663,ファイアロー,Talonflame,Flambusard,Talonflame,Fiaro,Talonflame,파이어로,烈箭鹰,烈箭鷹
+721,664,コフキムシ,Scatterbug,Lépidonille,Scatterbug,Purmel,Scatterbug,분이벌레,粉蝶虫,粉蝶蟲
+722,665,コフーライ,Spewpa,Pérégrain,Spewpa,Puponcho,Spewpa,분떠도리,粉蝶蛹,粉蝶蛹
+723,666,ビビヨン,Vivillon,Prismillon,Vivillon,Vivillon,Vivillon,비비용,彩粉蝶,彩粉蝶
+724,667,シシコ,Litleo,Hélionceau,Litleo,Leufeo,Litleo,레오꼬,小狮狮,小獅獅
+725,668,カエンジシ,Pyroar,Némélios,Pyroar,Pyroleo,Pyroar,화염레오,火炎狮,火炎獅
+726,669,フラベベ,Flabébé,Flabébé,Flabébé,Flabébé,Flabébé,플라베베,花蓓蓓,花蓓蓓
+727,670,フラエッテ,Floette,Floette,Floette,Floette,Floette,플라엣테,花叶蒂,花葉蒂
+728,671,フラージェス,Florges,Florges,Florges,Florges,Florges,플라제스,花洁夫人,花潔夫人
+729,672,メェークル,Skiddo,Cabriolaine,Skiddo,Mähikel,Skiddo,메이클,坐骑小羊,坐騎小羊
+730,673,ゴーゴート,Gogoat,Chevroum,Gogoat,Chevrumm,Gogoat,고고트,坐骑山羊,坐騎山羊
+731,674,ヤンチャム,Pancham,Pandespiègle,Pancham,Pam-Pam,Pancham,판짱,顽皮熊猫,頑皮熊貓
+732,675,ゴロンダ,Pangoro,Pandarbare,Pangoro,Pandagro,Pangoro,부란다,流氓熊猫,流氓熊貓
+733,676,トリミアン,Furfrou,Couafarel,Furfrou,Coiffwaff,Furfrou,트리미앙,多丽米亚,多麗米亞
+734,677,ニャスパー,Espurr,Psystigri,Espurr,Psiau,Espurr,냐스퍼,妙喵,妙喵
+735,678,ニャオニクス(オスのすがた),Meowstic(Male),Mistigrix(Mâle),Meowstic(Maschio),Psiaugon(Männlich),Meowstic(Macho),냐오닉스(수컷의 모습),超能妙喵(雄性的样子),超能妙喵(雄性的樣子)
+736,678,ニャオニクス(メスのすがた),Meowstic(Female),Mistigrix(Femelle),Meowstic(Femmina),Psiaugon(Weiblich),Meowstic(Hembra),냐오닉스(암컷의 모습),超能妙喵(雌性的样子),超能妙喵(雌性的樣子)
+737,679,ヒトツキ,Honedge,Monorpale,Honedge,Gramokles,Honedge,단칼빙,独剑鞘,獨劍鞘
+738,680,ニダンギル,Doublade,Dimoclès,Doublade,Duokles,Doublade,쌍검킬,双剑鞘,雙劍鞘
+739,681,ギルガルド,Aegislash,Exagide,Aegislash,Durengard,Aegislash,킬가르도,坚盾剑怪,堅盾劍怪
+740,682,シュシュプ,Spritzee,Fluvetin,Spritzee,Parfi,Spritzee,슈쁘,粉香香,粉香香
+741,683,フレフワン,Aromatisse,Cocotine,Aromatisse,Parfinesse,Aromatisse,프레프티르,芳香精,芳香精
+742,684,ペロッパフ,Swirlix,Sucroquin,Swirlix,Flauschling,Swirlix,나룸퍼프,绵绵泡芙,綿綿泡芙
+743,685,ペロリーム,Slurpuff,Cupcanaille,Slurpuff,Sabbaione,Slurpuff,나루림,胖甜妮,胖甜妮
+744,686,マーイーカ,Inkay,Sepiatop,Inkay,Iscalar,Inkay,오케이징,好啦鱿,好啦魷
+745,687,カラマネロ,Malamar,Sepiatroce,Malamar,Calamanero,Malamar,칼라마네로,乌贼王,烏賊王
+746,688,カメテテ,Binacle,Opermine,Binacle,Bithora,Binacle,거북손손,龟脚脚,龜腳腳
+747,689,ガメノデス,Barbaracle,Golgopathe,Barbaracle,Thanathora,Barbaracle,거북손데스,龟足巨铠,龜足巨鎧
+748,690,クズモー,Skrelp,Venalgue,Skrelp,Algitt,Skrelp,수레기,垃垃藻,垃垃藻
+749,691,ドラミドロ,Dragalge,Kravarech,Dragalge,Tandrak,Dragalge,드래캄,毒藻龙,毒藻龍
+750,692,ウデッポウ,Clauncher,Flingouste,Clauncher,Scampisto,Clauncher,완철포,铁臂枪虾,鐵臂槍蝦
+751,693,ブロスター,Clawitzer,Gamblast,Clawitzer,Wummer,Clawitzer,블로스터,钢炮臂虾,鋼炮臂蝦
+752,694,エリキテル,Helioptile,Galvaran,Helioptile,Eguana,Helioptile,목도리키텔,伞电蜥,傘電蜥
+753,695,エレザード,Heliolisk,Iguolta,Heliolisk,Elezard,Heliolisk,일레도리자드,光电伞蜥,光電傘蜥
+754,696,チゴラス,Tyrunt,Ptyranidur,Tyrunt,Balgoras,Tyrunt,티고라스,宝宝暴龙,寶寶暴龍
+755,697,ガチゴラス,Tyrantrum,Rexillius,Tyrantrum,Monargoras,Tyrantrum,견고라스,怪颚龙,怪顎龍
+756,698,アマルス,Amaura,Amagara,Amaura,Amarino,Amaura,아마루스,冰雪龙,冰雪龍
+757,699,アマルルガ,Aurorus,Dragmara,Aurorus,Amagarga,Aurorus,아마루르가,冰雪巨龙,冰雪巨龍
+758,700,ニンフィア,Sylveon,Nymphali,Sylveon,Feelinara,Sylveon,님피아,仙子伊布,仙子伊布
+759,701,ルチャブル,Hawlucha,Brutalibré,Hawlucha,Resladero,Hawlucha,루차불,摔角鹰人,摔角鷹人
+760,702,デデンネ,Dedenne,Dedenne,Dedenne,Dedenne,Dedenne,데덴네,咚咚鼠,咚咚鼠
+761,703,メレシー,Carbink,Strassie,Carbink,Rocara,Carbink,멜리시,小碎钻,小碎鑽
+762,704,ヌメラ,Goomy,Mucuscule,Goomy,Viscora,Goomy,미끄메라,黏黏宝,黏黏寶
+763,705,ヌメイル,Sliggoo,Colimucus,Sliggoo,Viscargot,Sliggoo,미끄네일,黏美儿,黏美兒
+764,706,ヌメルゴン,Goodra,Muplodocus,Goodra,Viscogon,Goodra,미끄래곤,黏美龙,黏美龍
+765,707,クレッフィ,Klefki,Trousselin,Klefki,Clavion,Klefki,클레피,钥圈儿,鑰圈兒
+766,708,ボクレー,Phantump,Brocélôme,Phantump,Paragoni,Phantump,나목령,小木灵,小木靈
+767,709,オーロット,Trevenant,Desséliande,Trevenant,Trombork,Trevenant,대로트,朽木妖,朽木妖
+768,710,バケッチャ(ふつうのサイズ),Pumpkaboo(Average Size),Pitrouille(Taille Normale),Pumpkaboo(Normale),Irrbis(Größe M),Pumpkaboo(Tamaño Normal),호바귀(보통 사이즈),南瓜精(普通尺寸),南瓜精(普通尺寸)
+769,710,バケッチャ(ちいさいサイズ),Pumpkaboo(Small Size),Pitrouille(Taille Mini),Pumpkaboo(Mini),Irrbis(Größe S),Pumpkaboo(Tamaño Pequeño),호바귀(작은 사이즈),南瓜精(小尺寸),南瓜精(小尺寸)
+770,710,バケッチャ(おおきいサイズ),Pumpkaboo(Large Size),Pitrouille(Taille Maxi),Pumpkaboo(Grande),Irrbis(Größe L),Pumpkaboo(Tamaño Grande),호바귀(큰 사이즈),南瓜精(大尺寸),南瓜精(大尺寸)
+771,710,バケッチャ(とくだいサイズ),Pumpkaboo(Super Size),Pitrouille(Taille Ultra),Pumpkaboo(Maxi),Irrbis(Größe XL),Pumpkaboo(Tamaño Extragrande),호바귀(특대 사이즈),南瓜精(特大尺寸),南瓜精(特大尺寸)
+772,711,パンプジン(ふつうのサイズ),Gourgeist(Average Size),Banshitrouye(Taille Normale),Gourgeist(Normale),Pumpdjinn(Größe M),Gourgeist(Tamaño Normal),펌킨인(보통 사이즈),南瓜怪人(普通尺寸),南瓜怪人(普通尺寸)
+773,711,パンプジン(ちいさいサイズ),Gourgeist(Small Size),Banshitrouye(Taille Mini),Gourgeist(Mini),Pumpdjinn(Größe S),Gourgeist(Tamaño Pequeño),펌킨인(작은 사이즈),南瓜怪人(小尺寸),南瓜怪人(小尺寸)
+774,711,パンプジン(おおきいサイズ),Gourgeist(Large Size),Banshitrouye(Taille Maxi),Gourgeist(Grande),Pumpdjinn(Größe L),Gourgeist(Tamaño Grande),펌킨인(큰 사이즈),南瓜怪人(大尺寸),南瓜怪人(大尺寸)
+775,711,パンプジン(とくだいサイズ),Gourgeist(Super Size),Banshitrouye(Taille Ultra),Gourgeist(Maxi),Pumpdjinn(Größe XL),Gourgeist(Tamaño Extragrande),펌킨인(특대 사이즈),南瓜怪人(特大尺寸),南瓜怪人(特大尺寸)
+776,712,カチコール,Bergmite,Grelaçon,Bergmite,Arktip,Bergmite,꽁어름,冰宝,冰寶
+777,713,クレベース,Avalugg,Séracrawl,Avalugg,Arktilas,Avalugg,크레베이스,冰岩怪,冰岩怪
+778,714,オンバット,Noibat,Sonistrelle,Noibat,eF-eM,Noibat,음뱃,嗡蝠,嗡蝠
+779,715,オンバーン,Noivern,Bruyverne,Noivern,UHaFnir,Noivern,음번,音波龙,音波龍
+780,716,ゼルネアス,Xerneas,Xerneas,Xerneas,Xerneas,Xerneas,제르네아스,哲尔尼亚斯,哲爾尼亞斯
+781,717,イベルタル,Yveltal,Yveltal,Yveltal,Yveltal,Yveltal,이벨타르,伊裴尔塔尔,伊裴爾塔爾
+782,718,ジガルデ(５０％フォルム),Zygarde(50% Forme),Zygarde(Forme 50 %),Zygarde(Forma 50%),Zygarde(50%-Form),Zygarde(Forma 50%),지가르데(50%폼),基格尔德(５０％形态),基格爾德(５０％形態)
+783,718,ジガルデ(１０％フォルム),Zygarde(10% Forme),Zygarde(Forme 10 %),Zygarde(Forma 10%),Zygarde(10%-Form),Zygarde(Forma 10%),지가르데(10%폼),基格尔德(１０％形态),基格爾德(１０％形態)
+784,718,ジガルデ(１０％フォルム),Zygarde(10% Forme),Zygarde(Forme 10 %),Zygarde(Forma 10%),Zygarde(10%-Form),Zygarde(Forma 10%),지가르데(10%폼),基格尔德(１０％形态),基格爾德(１０％形態)
+785,718,ジガルデ(５０％フォルム),Zygarde(50% Forme),Zygarde(Forme 50 %),Zygarde(Forma 50%),Zygarde(50%-Form),Zygarde(Forma 50%),지가르데(50%폼),基格尔德(５０％形态),基格爾德(５０％形態)
+786,719,ディアンシー,Diancie,Diancie,Diancie,Diancie,Diancie,디안시,蒂安希,蒂安希
+787,720,フーパ(いましめられしフーパ),Hoopa(Hoopa Confined),Hoopa(Hoopa Enchaîné),Hoopa(Hoopa Vincolato),Hoopa(Gebanntes Hoopa),Hoopa(Hoopa Contenido),후파(굴레에 빠진 후파),胡帕(惩戒胡帕),胡帕(懲戒胡帕)
+788,720,フーパ(ときはなたれしフーパ),Hoopa(Hoopa Unbound),Hoopa(Hoopa Déchaîné),Hoopa(Hoopa Libero),Hoopa(Entfesseltes Hoopa),Hoopa(Hoopa Desatado),후파(굴레를 벗어난 후파),胡帕(解放胡帕),胡帕(解放胡帕)
+789,721,ボルケニオン,Volcanion,Volcanion,Volcanion,Volcanion,Volcanion,볼케니온,波尔凯尼恩,波爾凱尼恩
+790,722,モクロー,Rowlet,Brindibou,Rowlet,Bauz,Rowlet,나몰빼미,木木枭,木木梟
+791,723,フクスロー,Dartrix,Efflèche,Dartrix,Arboretoss,Dartrix,빼미스로우,投羽枭,投羽梟
+792,724,ジュナイパー,Decidueye,Archéduc,Decidueye,Silvarro,Decidueye,모크나이퍼,狙射树枭,狙射樹梟
+793,725,ニャビー,Litten,Flamiaou,Litten,Flamiau,Litten,냐오불,火斑喵,火斑喵
+794,726,ニャヒート,Torracat,Matoufeu,Torracat,Miezunder,Torracat,냐오히트,炎热喵,炎熱喵
+795,727,ガオガエン,Incineroar,Félinferno,Incineroar,Fuegro,Incineroar,어흥염,炽焰咆哮虎,熾焰咆哮虎
+796,728,アシマリ,Popplio,Otaquin,Popplio,Robball,Popplio,누리공,球球海狮,球球海獅
+797,729,オシャマリ,Brionne,Otarlette,Brionne,Marikeck,Brionne,키요공,花漾海狮,花漾海獅
+798,730,アシレーヌ,Primarina,Oratoria,Primarina,Primarene,Primarina,누리레느,西狮海壬,西獅海壬
+799,731,ツツケラ,Pikipek,Picassaut,Pikipek,Peppeck,Pikipek,콕코구리,小笃儿,小篤兒
+800,732,ケララッパ,Trumbeak,Piclairon,Trumbeak,Trompeck,Trumbeak,크라파,喇叭啄鸟,喇叭啄鳥
+801,733,ドデカバシ,Toucannon,Bazoucan,Toucannon,Tukanon,Toucannon,왕큰부리,铳嘴大鸟,銃嘴大鳥
+802,734,ヤングース,Yungoos,Manglouton,Yungoos,Mangunior,Yungoos,영구스,猫鼬少,貓鼬少
+803,735,デカグース,Gumshoos,Argouste,Gumshoos,Manguspektor,Gumshoos,형사구스,猫鼬探长,貓鼬探長
+804,736,アゴジムシ,Grubbin,Larvibule,Grubbin,Mabula,Grubbin,턱지충이,强颚鸡母虫,強顎雞母蟲
+805,737,デンヂムシ,Charjabug,Chrysapile,Charjabug,Akkup,Charjabug,전지충이,虫电宝,蟲電寶
+806,738,クワガノン,Vikavolt,Lucanon,Vikavolt,Donarion,Vikavolt,투구뿌논,锹农炮虫,鍬農炮蟲
+807,739,マケンカニ,Crabrawler,Crabagarre,Crabrawler,Krabbox,Crabrawler,오기지게,好胜蟹,好勝蟹
+808,740,ケケンカニ,Crabominable,Crabominable,Crabominable,Krawell,Crabominable,모단단게,好胜毛蟹,好勝毛蟹
+809,741,オドリドリ(めらめらスタイル),Oricorio(Baile Style),Plumeline(Style Flamenco),Oricorio(Stile Flamenco),Choreogel(Flamenco-Stil),Oricorio(Estilo Apasionado),춤추새(이글이글스타일),花舞鸟(热辣热辣风格),花舞鳥(熱辣熱辣風格)
+810,741,オドリドリ(ぱちぱちスタイル),Oricorio(Pom-Pom Style),Plumeline(Style Pom-Pom),Oricorio(Stile Cheerdance),Choreogel(Cheerleading-Stil),Oricorio(Estilo Animado),춤추새(파칙파칙스타일),花舞鸟(啪滋啪滋风格),花舞鳥(啪滋啪滋風格)
+811,741,オドリドリ(ふらふらスタイル),Oricorio(Pa'u Style),Plumeline(Style Hula),Oricorio(Stile Hula),Choreogel(Hula-Stil),Oricorio(Estilo Plácido),춤추새(훌라훌라스타일),花舞鸟(呼拉呼拉风格),花舞鳥(呼拉呼拉風格)
+812,741,オドリドリ(まいまいスタイル),Oricorio(Sensu Style),Plumeline(Style Buyō),Oricorio(Stile Buyō),Choreogel(Buyo-Stil),Oricorio(Estilo Refinado),춤추새(하늘하늘스타일),花舞鸟(轻盈轻盈风格),花舞鳥(輕盈輕盈風格)
+813,742,アブリー,Cutiefly,Bombydou,Cutiefly,Wommel,Cutiefly,에블리,萌虻,萌虻
+814,743,アブリボン,Ribombee,Rubombelle,Ribombee,Bandelby,Ribombee,에리본,蝶结萌虻,蝶結萌虻
+815,744,イワンコ,Rockruff,Rocabot,Rockruff,Wuffels,Rockruff,암멍이,岩狗狗,岩狗狗
+816,745,ルガルガン(まひるのすがた),Lycanroc(Midday Form),Lougaroc(Forme Diurne),Lycanroc(Forma Giorno),Wolwerock(Tagform),Lycanroc(Forma Diurna),루가루암(한낮의 모습),鬃岩狼人(白昼的样子),鬃岩狼人(白晝的樣子)
+817,745,ルガルガン(まよなかのすがた),Lycanroc(Midnight Form),Lougaroc(Forme Nocturne),Lycanroc(Forma Notte),Wolwerock(Nachtform),Lycanroc(Forma Nocturna),루가루암(한밤중의 모습),鬃岩狼人(黑夜的样子),鬃岩狼人(黑夜的樣子)
+818,746,ヨワシ,Wishiwashi,Froussardine,Wishiwashi,Lusardin,Wishiwashi,약어리,弱丁鱼,弱丁魚
+819,747,ヒドイデ,Mareanie,Vorastérie,Mareanie,Garstella,Mareanie,시마사리,好坏星,好壞星
+820,748,ドヒドイデ,Toxapex,Prédastérie,Toxapex,Aggrostella,Toxapex,더시마사리,超坏星,超壞星
+821,749,ドロバンコ,Mudbray,Tiboudet,Mudbray,Pampuli,Mudbray,머드나기,泥驴仔,泥驢仔
+822,750,バンバドロ,Mudsdale,Bourrinos,Mudsdale,Pampross,Mudsdale,만마드,重泥挽马,重泥挽馬
+823,751,シズクモ,Dewpider,Araqua,Dewpider,Araqua,Dewpider,물거미,滴蛛,滴蛛
+824,752,オニシズクモ,Araquanid,Tarenbulle,Araquanid,Aranestro,Araquanid,깨비물거미,滴蛛霸,滴蛛霸
+825,753,カリキリ,Fomantis,Mimantis,Fomantis,Imantis,Fomantis,짜랑랑,伪螳草,偽螳草
+826,754,ラランテス,Lurantis,Floramantis,Lurantis,Mantidea,Lurantis,라란티스,兰螳花,蘭螳花
+827,755,ネマシュ,Morelull,Spododo,Morelull,Bubungus,Morelull,자마슈,睡睡菇,睡睡菇
+828,756,マシェード,Shiinotic,Lampignon,Shiinotic,Lamellux,Shiinotic,마셰이드,灯罩夜菇,燈罩夜菇
+829,757,ヤトウモリ,Salandit,Tritox,Salandit,Molunk,Salandit,야도뇽,夜盗火蜥,夜盜火蜥
+830,758,エンニュート,Salazzle,Malamandre,Salazzle,Amfira,Salazzle,염뉴트,焰后蜥,焰后蜥
+831,759,ヌイコグマ,Stufful,Nounourson,Stufful,Velursi,Stufful,포곰곰,童偶熊,童偶熊
+832,760,キテルグマ,Bewear,Chelours,Bewear,Kosturso,Bewear,이븐곰,穿着熊,穿著熊
+833,761,アマカジ,Bounsweet,Croquine,Bounsweet,Frubberl,Bounsweet,달콤아,甜竹竹,甜竹竹
+834,762,アママイコ,Steenee,Candine,Steenee,Frubaila,Steenee,달무리나,甜舞妮,甜舞妮
+835,763,アマージョ,Tsareena,Sucreine,Tsareena,Fruyal,Tsareena,달코퀸,甜冷美后,甜冷美后
+836,764,キュワワー,Comfey,Guérilande,Comfey,Curelei,Comfey,큐아링,花疗环环,花療環環
+837,765,ヤレユータン,Oranguru,Gouroutan,Oranguru,Kommandutan,Oranguru,하랑우탄,智挥猩,智揮猩
+838,766,ナゲツケサル,Passimian,Quartermac,Passimian,Quartermak,Passimian,내던숭이,投掷猴,投擲猴
+839,767,コソクムシ,Wimpod,Sovkipou,Wimpod,Reißlaus,Wimpod,꼬시레,胆小虫,膽小蟲
+840,768,グソクムシャ,Golisopod,Sarmuraï,Golisopod,Tectass,Golisopod,갑주무사,具甲武者,具甲武者
+841,769,スナバァ,Sandygast,Bacabouh,Sandygast,Sankabuh,Sandygast,모래꿍,沙丘娃,沙丘娃
+842,770,シロデスナ,Palossand,Trépassable,Palossand,Colossand,Palossand,모래성이당,噬沙堡爷,噬沙堡爺
+843,771,ナマコブシ,Pyukumuku,Concombaffe,Pyukumuku,Gufa,Pyukumuku,해무기,拳海参,拳海參
+844,772,タイプ：ヌル,Type: Null,Type:0,Tipo Zero,Typ:Null,Código Cero,타입:널,属性：空,屬性：空
+845,773,シルヴァディ(タイプ：ノーマル),Silvally(Type: Normal),Silvallié(Type : Normal),Silvally(Tipo Normale),Amigento(Typ:Normal),Silvally(Tipo: Normal),실버디(타입:노말),银伴战兽(属性：一般),銀伴戰獸(屬性：一般)
+846,773,シルヴァディ(タイプ：ファイト),Silvally(Type: Fighting),Silvallié(Type : Combat),Silvally(Tipo Lotta),Amigento(Typ:Kampf),Silvally(Tipo: Lucha),실버디(타입:파이팅),银伴战兽(属性：战斗),銀伴戰獸(屬性：戰鬥)
+847,773,シルヴァディ(タイプ：ウオーター),Silvally(Type: Water),Silvallié(Type : Eau),Silvally(Tipo Acqua),Amigento(Typ:Wasser),Silvally(Tipo: Agua),실버디(타입:워터),银伴战兽(属性：清水),銀伴戰獸(屬性：清水)
+848,773,シルヴァディ(タイプ：グラス),Silvally(Type: Grass),Silvallié(Type : Plante),Silvally(Tipo Erba),Amigento(Typ:Pflanze),Silvally(Tipo: Planta),실버디(타입:그래스),银伴战兽(属性：青草),銀伴戰獸(屬性：青草)
+849,773,シルヴァディ(タイプ：エレクトロ),Silvally(Type: Electric),Silvallié(Type : Électrik),Silvally(Tipo Elettro),Amigento(Typ:Elektro),Silvally(Tipo: Eléctrico),실버디(타입:일렉트릭),银伴战兽(属性：电子),銀伴戰獸(屬性：電子)
+850,773,シルヴァディ(タイプ：サイキック),Silvally(Type: Psychic),Silvallié(Type : Psy),Silvally(Tipo Psico),Amigento(Typ:Psycho),Silvally(Tipo: Psíquico),실버디(타입:사이킥),银伴战兽(属性：精神),銀伴戰獸(屬性：精神)
+851,773,シルヴァディ(タイプ：アイス),Silvally(Type: Ice),Silvallié(Type : Glace),Silvally(Tipo Ghiaccio),Amigento(Typ:Eis),Silvally(Tipo: Hielo),실버디(타입:아이스),银伴战兽(属性：冰雪),銀伴戰獸(屬性：冰雪)
+852,773,シルヴァディ(タイプ：ドラゴン),Silvally(Type: Dragon),Silvallié(Type : Dragon),Silvally(Tipo Drago),Amigento(Typ:Drache),Silvally(Tipo: Dragón),실버디(타입:드래곤),银伴战兽(属性：龙),銀伴戰獸(屬性：龍)
+853,773,シルヴァディ(タイプ：ダーク),Silvally(Type: Dark),Silvallié(Type : Ténèbres),Silvally(Tipo Buio),Amigento(Typ:Unlicht),Silvally(Tipo: Siniestro),실버디(타입:다크),银伴战兽(属性：黑暗),銀伴戰獸(屬性：黑暗)
+854,773,シルヴァディ(タイプ：フェアリー),Silvally(Type: Fairy),Silvallié(Type : Fée),Silvally(Tipo Folletto),Amigento(Typ:Fee),Silvally(Tipo: Hada),실버디(타입:페어리),银伴战兽(属性：妖精),銀伴戰獸(屬性：妖精)
+855,773,シルヴァディ(タイプ：フライング),Silvally(Type: Flying),Silvallié(Type : Vol),Silvally(Tipo Volante),Amigento(Typ:Flug),Silvally(Tipo: Volador),실버디(타입:플라잉),银伴战兽(属性：飞翔),銀伴戰獸(屬性：飛翔)
+856,773,シルヴァディ(タイプ：ポイズン),Silvally(Type: Poison),Silvallié(Type : Poison),Silvally(Tipo Veleno),Amigento(Typ:Gift),Silvally(Tipo: Veneno),실버디(타입:포이즌),银伴战兽(属性：毒),銀伴戰獸(屬性：毒)
+857,773,シルヴァディ(タイプ：グラウンド),Silvally(Type: Ground),Silvallié(Type : Sol),Silvally(Tipo Terra),Amigento(Typ:Boden),Silvally(Tipo: Tierra),실버디(타입:그라운드),银伴战兽(属性：大地),銀伴戰獸(屬性：大地)
+858,773,シルヴァディ(タイプ：ロック),Silvally(Type: Rock),Silvallié(Type : Roche),Silvally(Tipo Roccia),Amigento(Typ:Gestein),Silvally(Tipo: Roca),실버디(타입:락),银伴战兽(属性：岩石),銀伴戰獸(屬性：岩石)
+859,773,シルヴァディ(タイプ：バグ),Silvally(Type: Bug),Silvallié(Type : Insecte),Silvally(Tipo Coleottero),Amigento(Typ:Käfer),Silvally(Tipo: Bicho),실버디(타입:버그),银伴战兽(属性：虫子),銀伴戰獸(屬性：蟲子)
+860,773,シルヴァディ(タイプ：ゴースト),Silvally(Type: Ghost),Silvallié(Type : Spectre),Silvally(Tipo Spettro),Amigento(Typ:Geist),Silvally(Tipo: Fantasma),실버디(타입:고스트),银伴战兽(属性：幽灵),銀伴戰獸(屬性：幽靈)
+861,773,シルヴァディ(タイプ：スチール),Silvally(Type: Steel),Silvallié(Type : Acier),Silvally(Tipo Acciaio),Amigento(Typ:Stahl),Silvally(Tipo: Acero),실버디(타입:스틸),银伴战兽(属性：钢铁),銀伴戰獸(屬性：鋼鐵)
+862,773,シルヴァディ(タイプ：ファイヤー),Silvally(Type: Fire),Silvallié(Type : Feu),Silvally(Tipo Fuoco),Amigento(Typ:Feuer),Silvally(Tipo: Fuego),실버디(타입:파이어),银伴战兽(属性：火焰),銀伴戰獸(屬性：火焰)
+863,774,メテノ,Minior,Météno,Minior,Meteno,Minior,메테노,小陨星,小隕星
+864,775,ネッコアラ,Komala,Dodoala,Komala,Koalelu,Komala,자말라,树枕尾熊,樹枕尾熊
+865,776,バクガメス,Turtonator,Boumata,Turtonator,Tortunator,Turtonator,폭거북스,爆焰龟兽,爆焰龜獸
+866,777,トゲデマル,Togedemaru,Togedemaru,Togedemaru,Togedemaru,Togedemaru,토게데마루,托戈德玛尔,托戈德瑪爾
+867,778,ミミッキュ,Mimikyu,Mimiqui,Mimikyu,Mimigma,Mimikyu,따라큐,谜拟Ｑ,謎擬Ｑ
+868,779,ハギギシリ,Bruxish,Denticrisse,Bruxish,Knirfish,Bruxish,치갈기,磨牙彩皮鱼,磨牙彩皮魚
+869,780,ジジーロン,Drampa,Draïeul,Drampa,Sen-Long,Drampa,할비롱,老翁龙,老翁龍
+870,781,ダダリン,Dhelmise,Sinistrail,Dhelmise,Moruda,Dhelmise,타타륜,破破舵轮,破破舵輪
+871,782,ジャラコ,Jangmo-o,Bébécaille,Jangmo-o,Miniras,Jangmo-o,짜랑꼬,心鳞宝,心鱗寶
+872,783,ジャランゴ,Hakamo-o,Écaïd,Hakamo-o,Mediras,Hakamo-o,짜랑고우,鳞甲龙,鱗甲龍
+873,784,ジャラランガ,Kommo-o,Ékaïser,Kommo-o,Grandiras,Kommo-o,짜랑고우거,杖尾鳞甲龙,杖尾鱗甲龍
+874,785,カプ・コケコ,Tapu Koko,Tokorico,Tapu Koko,Kapu-Riki,Tapu Koko,카푸꼬꼬꼭,卡璞・鸣鸣,卡璞・鳴鳴
+875,786,カプ・テテフ,Tapu Lele,Tokopiyon,Tapu Lele,Kapu-Fala,Tapu Lele,카푸나비나,卡璞・蝶蝶,卡璞・蝶蝶
+876,787,カプ・ブルル,Tapu Bulu,Tokotoro,Tapu Bulu,Kapu-Toro,Tapu Bulu,카푸브루루,卡璞・哞哞,卡璞・哞哞
+877,788,カプ・レヒレ,Tapu Fini,Tokopisco,Tapu Fini,Kapu-Kime,Tapu Fini,카푸느지느,卡璞・鳍鳍,卡璞・鰭鰭
+878,789,コスモッグ,Cosmog,Cosmog,Cosmog,Cosmog,Cosmog,코스모그,科斯莫古,科斯莫古
+879,790,コスモウム,Cosmoem,Cosmovum,Cosmoem,Cosmovum,Cosmoem,코스모움,科斯莫姆,科斯莫姆
+880,791,ソルガレオ,Solgaleo,Solgaleo,Solgaleo,Solgaleo,Solgaleo,솔가레오,索尔迦雷欧,索爾迦雷歐
+881,792,ルナアーラ,Lunala,Lunala,Lunala,Lunala,Lunala,루나아라,露奈雅拉,露奈雅拉
+882,793,ウツロイド,Nihilego,Zéroïd,Nihilego,Anego,Nihilego,텅비드,虚吾伊德,虛吾伊德
+883,794,マッシブーン,Buzzwole,Mouscoto,Buzzwole,Masskito,Buzzwole,매시붕,爆肌蚊,爆肌蚊
+884,795,フェローチェ,Pheromosa,Cancrelove,Pheromosa,Schabelle,Pheromosa,페로코체,费洛美螂,費洛美螂
+885,796,デンジュモク,Xurkitree,Câblifère,Xurkitree,Voltriant,Xurkitree,전수목,电束木,電束木
+886,797,テッカグヤ,Celesteela,Bamboiselle,Celesteela,Kaguron,Celesteela,철화구야,铁火辉夜,鐵火輝夜
+887,798,カミツルギ,Kartana,Katagami,Kartana,Katagami,Kartana,종이신도,纸御剑,紙御劍
+888,799,アクジキング,Guzzlord,Engloutyran,Guzzlord,Schlingking,Guzzlord,악식킹,恶食大王,惡食大王
+889,800,ネクロズマ,Necrozma,Necrozma,Necrozma,Necrozma,Necrozma,네크로즈마,奈克洛兹玛,奈克洛茲瑪
+890,801,マギアナ,Magearna,Magearna,Magearna,Magearna,Magearna,마기아나,玛机雅娜,瑪機雅娜
