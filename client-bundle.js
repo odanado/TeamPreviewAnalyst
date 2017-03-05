@@ -78063,7 +78063,7 @@
 	
 	var fetchPokemons = exports.fetchPokemons = function fetchPokemons(file) {
 	    return _defineProperty({}, _reduxApiMiddleware.CALL_API, {
-	        endpoint: '//49.212.217.137:40000/upload',
+	        endpoint: 'http://49.212.217.137:40000/upload',
 	        method: 'POST',
 	        body: createBody(file),
 	        types: ['REQUEST_FETCH_POKEMONS', {
