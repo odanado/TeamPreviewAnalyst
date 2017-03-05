@@ -69921,7 +69921,7 @@
 	    return {
 	        files: state.analyst.get('files'),
 	        pokemons: state.api.get('pokemons'),
-	        isRequesting: state.api.get('isRequesting')
+	        requestState: state.api.get('requestState')
 	    };
 	};
 	
@@ -69977,6 +69977,17 @@
 	    handleFetchPokemons(files[0]);
 	};
 	
+	var createProgressBar = function createProgressBar(requestState) {
+	    // TODO: 通信に失敗した時に FAILURE_FETCH_POKEMONS が飛ばない原因を調べる
+	    if (requestState === 'waiting') {
+	        return _react2.default.createElement(_LinearProgress2.default, { mode: 'indeterminate' });
+	    } else if (requestState === 'failure') {
+	        return _react2.default.createElement(_LinearProgress2.default, { mode: 'indeterminate', color: 'red' });
+	    }
+	
+	    return null;
+	};
+	
 	var TeamPreviewAnalyst = function TeamPreviewAnalyst(props) {
 	    return _react2.default.createElement(
 	        'div',
@@ -69986,7 +69997,7 @@
 	                return _onDrop(files, props.handleDropFiles, props.handleFetchPokemons);
 	            }
 	        }),
-	        props.isRequesting ? _react2.default.createElement(_LinearProgress2.default, { mode: 'indeterminate' }) : null,
+	        createProgressBar(props.requestState),
 	        _react2.default.createElement(_drawResult2.default, { pokemons: props.pokemons }),
 	        _react2.default.createElement(_uploadedImage2.default, { files: props.files })
 	    );
@@ -69997,7 +70008,7 @@
 	    handleFetchPokemons: _react.PropTypes.func.isRequired,
 	    files: _react.PropTypes.instanceOf(_immutable.List).isRequired,
 	    pokemons: _react.PropTypes.instanceOf(_immutable.List).isRequired,
-	    isRequesting: _react.PropTypes.bool.isRequired
+	    requestState: _react.PropTypes.string.isRequired
 	};
 	
 	exports.default = TeamPreviewAnalyst;
@@ -78052,7 +78063,7 @@
 	
 	var fetchPokemons = exports.fetchPokemons = function fetchPokemons(file) {
 	    return _defineProperty({}, _reduxApiMiddleware.CALL_API, {
-	        endpoint: 'http://49.212.217.137:40000/upload',
+	        endpoint: '//49.212.217.137:40000/upload',
 	        method: 'POST',
 	        body: createBody(file),
 	        types: ['REQUEST_FETCH_POKEMONS', {
@@ -78068,15 +78079,18 @@
 	
 	var defaultState = _immutable2.default.fromJS({
 	    pokemons: [],
-	    isRequesting: false
+	    requestState: 'done'
 	});
 	
 	var reducer = exports.reducer = (0, _reduxActions.handleActions)({
 	    SUCCESS_FETCH_POKEMONS: function SUCCESS_FETCH_POKEMONS(state, action) {
-	        return _immutable2.default.fromJS({ pokemons: action.payload.pokemons, isRequesting: false });
+	        return _immutable2.default.fromJS({ pokemons: action.payload.pokemons, requestState: 'done' });
 	    },
 	    REQUEST_FETCH_POKEMONS: function REQUEST_FETCH_POKEMONS() {
-	        return _immutable2.default.fromJS({ pokemons: [], isRequesting: true });
+	        return _immutable2.default.fromJS({ pokemons: [], requestState: 'waiting' });
+	    },
+	    FAILURE_FETCH_POKEMONS: function FAILURE_FETCH_POKEMONS() {
+	        return _immutable2.default.fromJS({ pokemons: [], requestState: 'failure' });
 	    }
 	}, defaultState);
 
