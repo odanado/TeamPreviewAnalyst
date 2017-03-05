@@ -1,6 +1,5 @@
 import pickle
 from itertools import product
-from functools import partial
 
 import cv2
 import numpy as np
@@ -16,8 +15,9 @@ def clip_img(img, x, y, w, h):
 class Detecter(object):
 
     def __init__(self):
-        self.lower_threshold = np.array([0, 50, 50])
-        self.upper_threshold = np.array([70, 255, 255])
+        self.icon_size = 80
+        self.offset_x = (20, 170)
+        self.offset_y = (75, 225, 375)
 
         with open('data/name2feature.pkl', 'rb') as f:
             self.name2feature = pickle.load(f)
@@ -25,7 +25,9 @@ class Detecter(object):
     def __call__(self, img_path):
         img = cv2.imread(img_path, 1)
         hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
-        mask = cv2.inRange(hsv, self.lower_threshold, self.upper_threshold)
+        mask = cv2.inRange(hsv, np.array([0, 0, 0]), np.array([70, 255, 255]))
+        mask += cv2.inRange(hsv,
+                            np.array([130, 0, 0]), np.array([180, 255, 255]))
 
         _, contours, _ = cv2.findContours(
             mask, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
@@ -40,35 +42,38 @@ class Detecter(object):
         x, y, w, h = cv2.boundingRect(sorted_contours[0])
         resized_img = cv2.resize(img[y:y + h, x:x + w], (300, 500))
 
-        imgs = self.clip_pokemons(resized_img, sorted_contours[0])
+        results = self.clip_pokemons(resized_img, sorted_contours[0])
 
-        def key_func(target_feature, x):
-            f = np.asarray(x[1])
-            return np.linalg.norm(target_feature - f, ord=1)
+        return [en2id(res['name']) for res in results]
 
-        ids = []
-        for poke_img in imgs:
-            poke_img = preprocessing(poke_img)
-            target_feature = calc_hog_feature(poke_img)
-            result = min(self.name2feature.items(),
-                         key=partial(key_func, target_feature))
+    def select_img(self, img, offset, icon_size, num_slide, slide_size):
+        candidate = []
 
-            ids.append(en2id(result[0]))
+        for x, y in product(range(num_slide), range(num_slide)):
+            clipped_img = clip_img(
+                img, offset[0] + x * slide_size, offset[1] + y * slide_size, icon_size, icon_size)
+            clipped_img = preprocessing(clipped_img)
+            target_feature = calc_hog_feature(clipped_img)
+            result = [(name, feature, np.linalg.norm(target_feature - feature, ord=1))
+                      for name, feature in self.name2feature.items()]
 
-        return ids
+            result = sorted(result, key=lambda x: x[2])
+            candidate.append(result[0])
 
-    def clip_pokemons(self, img, contour):
-        x, y, w, h = cv2.boundingRect(contour)
-        icon_size = 90
-        offset_x = (35, 180)
-        offset_y = (90, 230, 380)
+        candidate = sorted(candidate, key=lambda x: x[2])
+        return candidate[0]
 
-        imgs = []
-        for offset in product(offset_x, offset_y):
-            imgs.append(
-                clip_img(img, offset[0], offset[1], icon_size, icon_size))
+    def clip_pokemons(self, img, sorted_contours, num_slide=7, slide_size=5):
+        x, y, w, h = cv2.boundingRect(sorted_contours[0])
 
-        return imgs
+        results = []
+        for offset in product(self.offset_x, self.offset_y):
+            name, feature, score = self.select_img(
+                img, offset, self.icon_size, num_slide, slide_size)
+            results.append(
+                {'name': name, 'feature': feature, 'score': score})
+
+        return results
 
 if __name__ == '__main__':
     from time import time

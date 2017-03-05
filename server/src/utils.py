@@ -20,7 +20,7 @@ def calc_hog_feature(img, orient=9, cell_size=5, block_size=6):
 
     return np.asarray(feature)
 
-pokemon = pd.read_csv('../data/pokemon.csv', delimiter=',')
+pokemon = pd.read_csv('./data/pokemon.csv', delimiter=',')
 
 
 def convert_name(from_lang, to_lang, name):

@@ -48,6 +48,7 @@ def upload():
     image.save(image_path)
 
     ids = detecter(image_path)
+    ids = [ids[i // 2 + i % 2 * 3] for i in range(6)]
 
     res = {}
     res['pokemons'] = []
