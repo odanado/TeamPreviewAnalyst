@@ -11,7 +11,7 @@ const createBody = (file) => {
 
 export const fetchPokemons = file => ({
     [CALL_API]: {
-        endpoint: 'http://49.212.217.137:40000/upload',
+        endpoint: '//49.212.217.137:40000/upload',
         method: 'POST',
         body: createBody(file),
         types: [
