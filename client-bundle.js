@@ -78063,7 +78063,7 @@
 	
 	var fetchPokemons = exports.fetchPokemons = function fetchPokemons(file) {
 	    return _defineProperty({}, _reduxApiMiddleware.CALL_API, {
-	        endpoint: 'https://api.poyo.club/upload',
+	        endpoint: 'https://api.poyo.club/analyst/upload',
 	        method: 'POST',
 	        body: createBody(file),
 	        types: ['REQUEST_FETCH_POKEMONS', {
