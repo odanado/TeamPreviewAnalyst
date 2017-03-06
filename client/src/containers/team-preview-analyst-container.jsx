@@ -7,7 +7,7 @@ import { fetchPokemons } from '../redux/api-reducer';
 const mapStateToProps = state => ({
     files: state.analyst.get('files'),
     pokemons: state.api.get('pokemons'),
-    isRequesting: state.api.get('isRequesting'),
+    requestState: state.api.get('requestState'),
 });
 
 const mapDispatchToProps = dispatch => ({
