@@ -36098,7 +36098,7 @@
 	        _react2.default.createElement(
 	            'header',
 	            { className: 'header' },
-	            _react2.default.createElement(_materialUi.AppBar, { title: 'TeamPreviewAnalyst' })
+	            _react2.default.createElement(_materialUi.AppBar, { title: 'TeamPreviewAnalyst(\u03B2)' })
 	        )
 	    );
 	};
