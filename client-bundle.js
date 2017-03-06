@@ -69978,11 +69978,19 @@
 	};
 	
 	var createProgressBar = function createProgressBar(requestState) {
-	    // TODO: 通信に失敗した時に FAILURE_FETCH_POKEMONS が飛ばない原因を調べる
 	    if (requestState === 'waiting') {
 	        return _react2.default.createElement(_LinearProgress2.default, { mode: 'indeterminate' });
 	    } else if (requestState === 'failure') {
-	        return _react2.default.createElement(_LinearProgress2.default, { mode: 'indeterminate', color: 'red' });
+	        return _react2.default.createElement(
+	            'div',
+	            null,
+	            _react2.default.createElement(
+	                'p',
+	                null,
+	                '\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002\u30D0\u30B0\u306E\u5831\u544A\u5148\u306F @poke_odan \u3067\u3059\u3002'
+	            ),
+	            _react2.default.createElement(_LinearProgress2.default, { mode: 'determinate', color: 'red', value: 100 })
+	        );
 	    }
 	
 	    return null;
@@ -78083,11 +78091,14 @@
 	});
 	
 	var reducer = exports.reducer = (0, _reduxActions.handleActions)({
+	    REQUEST_FETCH_POKEMONS: function REQUEST_FETCH_POKEMONS(state, action) {
+	        if (action.error) {
+	            return _immutable2.default.fromJS({ pokemons: [], requestState: 'failure' });
+	        }
+	        return _immutable2.default.fromJS({ pokemons: [], requestState: 'waiting' });
+	    },
 	    SUCCESS_FETCH_POKEMONS: function SUCCESS_FETCH_POKEMONS(state, action) {
 	        return _immutable2.default.fromJS({ pokemons: action.payload.pokemons, requestState: 'done' });
-	    },
-	    REQUEST_FETCH_POKEMONS: function REQUEST_FETCH_POKEMONS() {
-	        return _immutable2.default.fromJS({ pokemons: [], requestState: 'waiting' });
 	    },
 	    FAILURE_FETCH_POKEMONS: function FAILURE_FETCH_POKEMONS() {
 	        return _immutable2.default.fromJS({ pokemons: [], requestState: 'failure' });
