@@ -32,10 +32,14 @@ const defaultState = Immutable.fromJS({
 
 
 export const reducer = handleActions({
+    REQUEST_FETCH_POKEMONS: (state, action) => {
+        if (action.error) {
+            return Immutable.fromJS({ pokemons: [], requestState: 'failure' });
+        }
+        return Immutable.fromJS({ pokemons: [], requestState: 'waiting' });
+    },
     SUCCESS_FETCH_POKEMONS: (state, action) =>
         (Immutable.fromJS({ pokemons: action.payload.pokemons, requestState: 'done' })),
-    REQUEST_FETCH_POKEMONS: () =>
-        (Immutable.fromJS({ pokemons: [], requestState: 'waiting' })),
     FAILURE_FETCH_POKEMONS: () =>
         (Immutable.fromJS({ pokemons: [], requestState: 'failure' })),
 }, defaultState);

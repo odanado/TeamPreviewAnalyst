@@ -12,11 +12,15 @@ const onDrop = (files, handleDropFiles, handleFetchPokemons) => {
 };
 
 const createProgressBar = (requestState) => {
-    // TODO: 通信に失敗した時に FAILURE_FETCH_POKEMONS が飛ばない原因を調べる
     if (requestState === 'waiting') {
         return <LinearProgress mode="indeterminate" />;
     } else if (requestState === 'failure') {
-        return <LinearProgress mode="indeterminate" color="red" />;
+        return (
+            <div>
+                <p>エラーが発生しました。バグの報告先は @poke_odan です。</p>
+                <LinearProgress mode="determinate" color="red" value={100} />
+            </div>
+        );
     }
 
     return null;
