@@ -70000,6 +70000,13 @@
 	    return null;
 	};
 	
+	var style = {
+	    width: '90%',
+	    margin: 'auto',
+	    marginTop: 10,
+	    marginButtom: 10
+	};
+	
 	var TeamPreviewAnalyst = function TeamPreviewAnalyst(props) {
 	    return _react2.default.createElement(
 	        'div',
@@ -70011,7 +70018,12 @@
 	        }),
 	        createProgressBar(props.requestState),
 	        _react2.default.createElement(_drawResult2.default, { pokemons: props.pokemons }),
-	        _react2.default.createElement(_reactGoogleAd2.default, { client: 'ca-pub-6698466829268788', slot: '3466226753', format: 'auto' }),
+	        _react2.default.createElement(
+	            'div',
+	            { style: style },
+	            '\u30B9\u30DD\u30F3\u30B5\u30FC\u30C9\u30EA\u30F3\u30AF',
+	            _react2.default.createElement(_reactGoogleAd2.default, { client: 'ca-pub-6698466829268788', slot: '3466226753', format: 'auto' })
+	        ),
 	        _react2.default.createElement(_uploadedImage2.default, { files: props.files })
 	    );
 	};
@@ -95376,6 +95388,12 @@
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
+	var style = {
+	    width: '90%',
+	    margin: 'auto',
+	    marginBottom: 15
+	};
+	
 	var createATag = function createATag(id, ja) {
 	    return _react2.default.createElement(
 	        'a',
@@ -95387,7 +95405,7 @@
 	var DrawResult = function DrawResult(props) {
 	    return _react2.default.createElement(
 	        _Table.Table,
-	        null,
+	        { style: style },
 	        _react2.default.createElement(
 	            _Table.TableHeader,
 	            { displaySelectAll: false, adjustForCheckbox: false },
@@ -95458,7 +95476,7 @@
 	var style = {
 	    width: '80%',
 	    margin: 'auto',
-	    marginTop: 15
+	    marginTop: 10
 	};
 	
 	var UploadedImage = function UploadedImage(props) {
