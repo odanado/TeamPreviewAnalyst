@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+
+import gevent.monkey
+gevent.monkey.patch_all()
+
 import os
 import hashlib
 from datetime import datetime
@@ -61,4 +66,4 @@ def upload():
     return json.dumps(res, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
-    run(host='0.0.0.0', port=8080)
+    run(host='0.0.0.0', server='gevent', port=8080)
