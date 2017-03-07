@@ -22,6 +22,9 @@ const ImageGropzone = props => (
         <div style={{ textAlign: 'center' }}>
             タップして画像をアップロード
         </div>
+        <div style={{ textAlign: 'center', fontSize: 7 }}>
+            ※アップロードされた画像は今後の精度向上のために使用する場合があります
+        </div>
     </Dropzone>
 );
 
