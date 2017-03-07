@@ -11,7 +11,7 @@ const createBody = (file) => {
 
 export const fetchPokemons = file => ({
     [CALL_API]: {
-        endpoint: 'http://49.212.217.137:40000/upload',
+        endpoint: 'https://api.poyo.club/analyst/upload',
         method: 'POST',
         body: createBody(file),
         types: [
@@ -27,14 +27,20 @@ export const fetchPokemons = file => ({
 
 const defaultState = Immutable.fromJS({
     pokemons: [],
-    isRequesting: false,
+    requestState: 'done',
 });
 
 
 export const reducer = handleActions({
+    REQUEST_FETCH_POKEMONS: (state, action) => {
+        if (action.error) {
+            return Immutable.fromJS({ pokemons: [], requestState: 'failure' });
+        }
+        return Immutable.fromJS({ pokemons: [], requestState: 'waiting' });
+    },
     SUCCESS_FETCH_POKEMONS: (state, action) =>
-        (Immutable.fromJS({ pokemons: action.payload.pokemons, isRequesting: false })),
-    REQUEST_FETCH_POKEMONS: () =>
-        (Immutable.fromJS({ pokemons: [], isRequesting: true })),
+        (Immutable.fromJS({ pokemons: action.payload.pokemons, requestState: 'done' })),
+    FAILURE_FETCH_POKEMONS: () =>
+        (Immutable.fromJS({ pokemons: [], requestState: 'failure' })),
 }, defaultState);
 

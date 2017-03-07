@@ -3,6 +3,7 @@ import babel from 'gulp-babel';
 import del from 'del';
 import eslint from 'gulp-eslint';
 import webpack from 'webpack-stream';
+import ghPages from 'gulp-gh-pages';
 import webpackConfig from './webpack.config.babel';
 
 const paths = {
@@ -42,5 +43,10 @@ gulp.task('main', ['lint', 'clean'], () =>
 gulp.task('watch', () => {
     gulp.watch(paths.allSrcJs, ['main']);
 });
+
+gulp.task('deploy', () =>
+    gulp.src('./dist/**/*')
+        .pipe(ghPages()),
+);
 
 gulp.task('default', ['watch', 'main']);
