@@ -5,7 +5,7 @@ import { List } from 'immutable';
 const style = {
     width: '80%',
     margin: 'auto',
-    marginTop: 15,
+    marginTop: 10,
 };
 
 const UploadedImage = props => (
