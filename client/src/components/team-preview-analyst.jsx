@@ -27,6 +27,12 @@ const createProgressBar = (requestState) => {
     return null;
 };
 
+const style = {
+    width: '90%',
+    margin: 'auto',
+    marginTop: 10,
+    marginButtom: 10,
+};
 
 const TeamPreviewAnalyst = props => (
     <div>
@@ -35,7 +41,10 @@ const TeamPreviewAnalyst = props => (
         />
         {createProgressBar(props.requestState)}
         <DrawResult pokemons={props.pokemons} />
-        <GoogleAd client="ca-pub-6698466829268788" slot="3466226753" format="auto" />
+        <div style={style}>
+            スポンサードリンク
+            <GoogleAd client="ca-pub-6698466829268788" slot="3466226753" format="auto" />
+        </div>
         <UploadedImage files={props.files} />
     </div>
 );
