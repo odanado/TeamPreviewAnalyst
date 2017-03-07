@@ -1,6 +1,7 @@
 import React, { PropTypes } from 'react';
 import { List } from 'immutable';
 import LinearProgress from 'material-ui/LinearProgress';
+import GoogleAd from 'react-google-ad';
 
 import ImageDropzone from './image-dropzone';
 import DrawResult from './draw-result';
@@ -34,6 +35,7 @@ const TeamPreviewAnalyst = props => (
         />
         {createProgressBar(props.requestState)}
         <DrawResult pokemons={props.pokemons} />
+        <GoogleAd client="ca-pub-6698466829268788" slot="3466226753" format="auto" />
         <UploadedImage files={props.files} />
     </div>
 );

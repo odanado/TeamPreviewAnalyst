@@ -3015,6 +3015,10 @@ react-event-listener@^0.4.0:
     react-addons-shallow-compare "^15.4.2"
     warning "^3.0.0"
 
+react-google-ad@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-google-ad/-/react-google-ad-1.0.2.tgz#ae95e1dbc4c5fc5e1c7054c585e545cf10d0509d"
+
 react-is-deprecated@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/react-is-deprecated/-/react-is-deprecated-0.1.2.tgz#301148f86ea428fe8e673eca7a372160b7579dbd"
