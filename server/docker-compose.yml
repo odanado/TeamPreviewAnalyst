@@ -1,0 +1,27 @@
+version: "2"
+services:
+    team-preview-analyst:
+        build: .
+        volumes:
+            - ./:/src
+            - /etc/localtime:/etc/localtime
+        ports:
+            - 8080
+        environment:
+            VIRTUAL_HOST: api.poyo.club
+            LETSENCRYPT_HOST: api.poyo.club
+            LETSENCRYPT_EMAIL: odan3240@gmail.com
+            LETSENCRYPT_TEST: "false"
+        entrypoint:
+            - src/server.py
+        network_mode: "bridge"
+
+    test:
+        build: .
+        volumes:
+            - ./:/src
+            - /etc/localtime:/etc/localtime
+        ports:
+            - 30000:8080
+        entrypoint:
+            - src/server.py
