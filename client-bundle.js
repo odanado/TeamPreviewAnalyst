@@ -94764,6 +94764,11 @@
 	            'div',
 	            { style: { textAlign: 'center' } },
 	            '\u30BF\u30C3\u30D7\u3057\u3066\u753B\u50CF\u3092\u30A2\u30C3\u30D7\u30ED\u30FC\u30C9'
+	        ),
+	        _react2.default.createElement(
+	            'div',
+	            { style: { textAlign: 'center', fontSize: 7 } },
+	            '\u203B\u30A2\u30C3\u30D7\u30ED\u30FC\u30C9\u3055\u308C\u305F\u753B\u50CF\u306F\u4ECA\u5F8C\u306E\u7CBE\u5EA6\u5411\u4E0A\u306E\u305F\u3081\u306B\u4F7F\u7528\u3059\u308B\u5834\u5408\u304C\u3042\u308A\u307E\u3059'
 	        )
 	    );
 	};
