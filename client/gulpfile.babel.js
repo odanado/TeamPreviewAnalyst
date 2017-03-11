@@ -34,6 +34,8 @@ gulp.task('build', ['lint', 'clean'], () => gulp.src(paths.allSrcJs)
     .pipe(babel())
     .pipe(gulp.dest(paths.libDir)));
 
+gulp.task('test', ['build'], () => {});
+
 gulp.task('main', ['lint', 'clean'], () =>
     gulp.src(paths.clientEntryPoint)
         .pipe(webpack(webpackConfig))

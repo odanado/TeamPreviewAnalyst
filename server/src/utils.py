@@ -15,7 +15,8 @@ def calc_hog_feature(img, orient=9, cell_size=5, block_size=6):
     feature = []
     for c in channels:
         f = hog(c, orientations=orient,
-                pixels_per_cell=(cell_size, cell_size), cells_per_block=(block_size, block_size))
+                pixels_per_cell=(cell_size, cell_size),
+                cells_per_block=(block_size, block_size))
         feature.extend(f)
 
     return np.asarray(feature)

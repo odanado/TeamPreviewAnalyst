@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 
-import gevent.monkey
-gevent.monkey.patch_all()
-
 import os
 import hashlib
 from datetime import datetime
@@ -14,6 +11,9 @@ from bottle import post, request, run, response, install, hook
 from detecter import Detecter
 from utils import id2en, en2ja
 from access_logging import log_to_logger
+
+import gevent.monkey
+gevent.monkey.patch_all()
 
 install(log_to_logger)
 
@@ -29,16 +29,19 @@ def enable_cors():
     response.headers[
         'Access-Control-Allow-Methods'] = 'PUT, GET, POST, DELETE, OPTIONS'
     response.headers[
-        'Access-Control-Allow-Headers'] = 'Origin, Accept, Content-Type, X-Requested-With, X-CSRF-Token'
+        'Access-Control-Allow-Headers'] = \
+        'Origin, Accept, Content-Type, X-Requested-With, X-CSRF-Token'
 
 
 def get_unixtime():
     return '{0:%s}'.format(datetime.now())
 
+
 def get_token(ip):
     unixtime = get_unixtime()
     sha1 = hashlib.sha1((unixtime + ip).encode('utf8'))
     return sha1.hexdigest()
+
 
 def get_root_dir():
     now = datetime.now()

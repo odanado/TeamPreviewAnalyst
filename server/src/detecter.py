@@ -51,10 +51,12 @@ class Detecter(object):
 
         for x, y in product(range(num_slide), range(num_slide)):
             clipped_img = clip_img(
-                img, offset[0] + x * slide_size, offset[1] + y * slide_size, icon_size, icon_size)
+                img, offset[0] + x * slide_size, offset[1] + y * slide_size,
+                icon_size, icon_size)
             clipped_img = preprocessing(clipped_img)
             target_feature = calc_hog_feature(clipped_img)
-            result = [(name, feature, np.linalg.norm(target_feature - feature, ord=1))
+            result = [(name, feature,
+                       np.linalg.norm(target_feature - feature, ord=1))
                       for name, feature in self.name2feature.items()]
 
             result = sorted(result, key=lambda x: x[2])
@@ -78,7 +80,8 @@ class Detecter(object):
 if __name__ == '__main__':
     from time import time
     detecter = Detecter('Japanese')
-    file_path = 'images/2017-03-04/f96a0783a4d252f02b470d91f5e5eb6aec347569/orig.jpg'
+    file_path = 'images/2017-03-04/\
+                f96a0783a4d252f02b470d91f5e5eb6aec347569/orig.jpg'
     s = time()
     print(detecter(file_path))
     print(time() - s)

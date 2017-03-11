@@ -1,0 +1,29 @@
+env:
+    - NODE_VERSION="6"
+
+language: python
+python:
+    - "3.5"
+
+before_install:
+    - nvm install $NODE_VERSION
+    - nvm use $NODE_VERSION
+    - curl -o- -L https://yarnpkg.com/install.sh | bash
+    - export PATH=$HOME/.yarn/bin:$PATH
+    - python -V
+    - pip -V
+    - node --version
+    - yarn --version
+
+install:
+    - pip install -r ./server/requirements.txt
+    - cd ./client && yarn && cd ..
+
+script:
+    - pep8 ./server/src/*.py
+    - pyflakes ./server/src/*.py
+    - cd ./client && yarn test && cd ..
+
+cache:
+    - yarn
+    - pip
