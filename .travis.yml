@@ -20,8 +20,11 @@ install:
     - cd ./client && yarn && cd ..
 
 script:
-    - pep8 ./server/src/*.py
-    - pyflakes ./server/src/*.py
+    - cd ./server
+    - pep8 ./src/*.py ./test/*.py
+    - pyflakes ./src/*.py ./test/*.py
+    - nosetests
+    - cd ..
     - cd ./client && yarn test && cd ..
 
 cache:

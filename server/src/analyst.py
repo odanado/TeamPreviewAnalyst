@@ -12,7 +12,7 @@ def clip_img(img, x, y, w, h):
     return img[y:y + h, x:x + w]
 
 
-class Detecter(object):
+class Analyst(object):
 
     def __init__(self):
         self.icon_size = 80
@@ -79,9 +79,9 @@ class Detecter(object):
 
 if __name__ == '__main__':
     from time import time
-    detecter = Detecter('Japanese')
+    analyst = Analyst()
     file_path = 'images/2017-03-04/\
                 f96a0783a4d252f02b470d91f5e5eb6aec347569/orig.jpg'
     s = time()
-    print(detecter(file_path))
+    print(analyst(file_path))
     print(time() - s)
