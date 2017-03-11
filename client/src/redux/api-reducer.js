@@ -11,7 +11,7 @@ const createBody = (file) => {
 
 export const fetchPokemons = file => ({
     [CALL_API]: {
-        endpoint: 'https://api.poyo.club/analyst/upload',
+        endpoint: API_URL,
         method: 'POST',
         body: createBody(file),
         types: [

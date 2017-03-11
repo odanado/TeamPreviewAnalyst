@@ -1,5 +1,27 @@
+import path from 'path';
+import webpack from 'webpack';
+
+const API_URL = {
+    production: JSON.stringify('https://api.poyo.club/analyst/upload'),
+    development: JSON.stringify('https://test.poyo.club/analyst/upload'),
+};
+
+const getEnvironment = () => {
+    const env = process.env.NODE_ENV;
+    if (env) {
+        if (env === 'development') return 'development';
+        return 'production';
+    }
+    return 'production';
+};
+
+const environment = getEnvironment();
+
 export default {
+    cache: true,
+    entry: './src/app.jsx',
     output: {
+        path: path.join(__dirname, 'dist'),
         filename: 'client-bundle.js',
     },
     devtool: 'source-map',
@@ -12,7 +34,12 @@ export default {
             },
         ],
     },
+    plugins: [
+        new webpack.DefinePlugin({
+            API_URL: API_URL[environment],
+        }),
+    ],
     resolve: {
-        extensions: ['', '.js', '.jsx'],
+        extensions: ['*', '.js', '.jsx'],
     },
 };

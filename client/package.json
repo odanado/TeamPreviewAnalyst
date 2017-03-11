@@ -41,6 +41,9 @@
           ]
         }
       ]
+    },
+    "globals": {
+      "API_URL": true
     }
   },
   "devDependencies": {
@@ -57,6 +60,10 @@
     "gulp-babel": "^6.1.2",
     "gulp-eslint": "^3.0.1",
     "gulp-gh-pages": "^0.5.4",
+    "gulp-util": "^3.0.8",
+    "path": "^0.12.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1",
     "webpack-stream": "^3.2.0"
   },
   "dependencies": {

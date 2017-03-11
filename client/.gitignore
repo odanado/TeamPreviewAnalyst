@@ -53,3 +53,4 @@ jspm_packages
 dist/client-bundle.js
 dist/client-bundle.js.map
 .publish/
+lib/
