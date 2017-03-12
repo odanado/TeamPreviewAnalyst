@@ -8,7 +8,7 @@ import json
 from PIL import Image
 from bottle import post, request, run, response, install, hook
 
-from detecter import Detecter
+from analyst import Analyst
 from utils import id2en, en2ja
 from access_logging import log_to_logger
 
@@ -59,7 +59,7 @@ def get_save_dir(ip, token):
     os.makedirs(save_dir, exist_ok=True)
     return save_dir
 
-detecter = Detecter()
+analyst = Analyst()
 
 
 @post('/analyst/upload')
@@ -74,7 +74,7 @@ def upload():
     image_path = '{}/orig.jpg'.format(save_dir)
     image.save(image_path)
 
-    ids = detecter(image_path)
+    ids = analyst(image_path)
     ids = [ids[i // 2 + i % 2 * 3] for i in range(6)]
 
     res = {}
