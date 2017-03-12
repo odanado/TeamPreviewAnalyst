@@ -16,12 +16,16 @@ services:
             - src/server.py
         network_mode: "bridge"
 
-    test:
+    staging:
         build: .
         volumes:
             - ./:/src
             - /etc/localtime:/etc/localtime
-        ports:
-            - 30000:8080
+        environment:
+            VIRTUAL_HOST: test.poyo.club
+            LETSENCRYPT_HOST: test.poyo.club
+            LETSENCRYPT_EMAIL: odan3240@gmail.com
+            LETSENCRYPT_TEST: "false"
         entrypoint:
             - src/server.py
+        network_mode: "bridge"
