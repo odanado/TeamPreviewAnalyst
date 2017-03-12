@@ -62,6 +62,12 @@ def get_save_dir(ip, token):
 analyst = Analyst()
 
 
+@post('/analyst/deploy')
+def deploy():
+    print(request.query, flush=True)
+    return ''
+
+
 @post('/analyst/upload')
 def upload():
     image = request.files.get('image')
