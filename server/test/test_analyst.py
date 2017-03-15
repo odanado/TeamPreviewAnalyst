@@ -2,15 +2,15 @@ import sys
 import unittest
 
 sys.path.append('../src')
-from analyst import Analyst  # NOQA
+from analyzer import Analyzer  # NOQA
 
 
-class TestAnalyst(unittest.TestCase):
+class TestAnalyzer(unittest.TestCase):
 
-    def test_analyst(self):
+    def test_analyzer(self):
         file_path = './test/sample.jpg'
-        analyst = Analyst()
-        analyst(file_path)
+        analyzer = Analyzer()
+        analyzer(file_path)
 
 
 if __name__ == '__main__':
