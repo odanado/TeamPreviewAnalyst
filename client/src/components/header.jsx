@@ -4,7 +4,7 @@ import { AppBar } from 'material-ui';
 const Header = () => (
     <div>
         <header className="header">
-            <AppBar title="TeamPreviewAnalyst(β)" />
+            <AppBar title="TeamPreviewAnalyzer(β)" />
         </header>
     </div>
 );

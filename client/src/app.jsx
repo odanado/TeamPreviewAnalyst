@@ -9,14 +9,14 @@ import injectTapEventPlugin from 'react-tap-event-plugin';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 import Header from './components/header';
-import TeamPreviewAnalyst from './containers/team-preview-analyst-container';
-import { reducer as analystReducer } from './redux/team-preview-analyst-reducer';
+import TeamPreviewAnalyzer from './containers/team-preview-analyzer-container';
+import { reducer as analyzerReducer } from './redux/team-preview-analyzer-reducer';
 import { reducer as apiReducer } from './redux/api-reducer';
 
 injectTapEventPlugin();
 
 const reducers = combineReducers({
-    analyst: analystReducer,
+    analyzer: analyzerReducer,
     api: apiReducer,
 });
 
@@ -27,7 +27,7 @@ const App = () => (
         <MuiThemeProvider>
             <div>
                 <Header />
-                <TeamPreviewAnalyst />
+                <TeamPreviewAnalyzer />
             </div>
         </MuiThemeProvider>
     </Provider>

@@ -1,11 +1,11 @@
 import { connect } from 'react-redux';
-import TeamPreviewAnalyst from '../components/team-preview-analyst';
+import TeamPreviewAnalyzer from '../components/team-preview-analyzer';
 
-import { dropFiles } from '../redux/team-preview-analyst-reducer';
+import { dropFiles } from '../redux/team-preview-analyzer-reducer';
 import { fetchPokemons } from '../redux/api-reducer';
 
 const mapStateToProps = state => ({
-    files: state.analyst.get('files'),
+    files: state.analyzer.get('files'),
     pokemons: state.api.get('pokemons'),
     requestState: state.api.get('requestState'),
 });
@@ -15,4 +15,4 @@ const mapDispatchToProps = dispatch => ({
     handleFetchPokemons: (file) => { dispatch(fetchPokemons(file)); },
 });
 
-export default connect(mapStateToProps, mapDispatchToProps)(TeamPreviewAnalyst);
+export default connect(mapStateToProps, mapDispatchToProps)(TeamPreviewAnalyzer);

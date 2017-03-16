@@ -34,7 +34,7 @@ const style = {
     marginButtom: 10,
 };
 
-const TeamPreviewAnalyst = props => (
+const TeamPreviewAnalyzer = props => (
     <div>
         <ImageDropzone
           onDrop={files => onDrop(files, props.handleDropFiles, props.handleFetchPokemons)}
@@ -49,7 +49,7 @@ const TeamPreviewAnalyst = props => (
     </div>
 );
 
-TeamPreviewAnalyst.propTypes = {
+TeamPreviewAnalyzer.propTypes = {
     handleDropFiles: PropTypes.func.isRequired,
     handleFetchPokemons: PropTypes.func.isRequired,
     files: PropTypes.instanceOf(List).isRequired,
@@ -57,4 +57,4 @@ TeamPreviewAnalyst.propTypes = {
     requestState: PropTypes.string.isRequired,
 };
 
-export default TeamPreviewAnalyst;
+export default TeamPreviewAnalyzer;

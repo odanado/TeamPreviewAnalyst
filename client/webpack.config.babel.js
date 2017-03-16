@@ -2,8 +2,8 @@ import path from 'path';
 import webpack from 'webpack';
 
 const API_URL = {
-    production: JSON.stringify('https://api.poyo.club/analyst/upload'),
-    development: JSON.stringify('https://test.poyo.club/analyst/upload'),
+    production: JSON.stringify('https://api.poyo.club/analyzer/upload'),
+    development: JSON.stringify('https://test.poyo.club/analyzer/upload'),
 };
 
 const getEnvironment = () => {
